@@ -2,23 +2,22 @@
 pragma solidity ^0.8.2;
 
 import "https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/release-v4.6/contracts/token/ERC20/ERC20.sol";
-
+// import {ArrayOperations} from "https://raw.githubusercontent.com/smart-contract-modules-solidity/indexOf/main/indexOf.sol";
 
 contract FairnessCoinSmartContract is ERC20 {
 
 
-    address[] fairnessFans = [0x414a6ace81a5336540506f852bCAb301891058fa];
+    address[] fairnessFans = [0x0000000000000000000000000000000000000000];
     mapping(address => bool) fanIsRegistered;
     uint startTime = block.timestamp;
     uint minuteOfLastMint = 0;
 
 
-    constructor() ERC20("FairnessCoin", "FC") { 
-        fanIsRegistered[0x414a6ace81a5336540506f852bCAb301891058fa] = true;
-    }
+    constructor() ERC20("FairnessCoin", "FC") { }
 
 
     function registerFan(address fanAddress) public {
+        // require(msg.sender == tbd, "Only a reasonable authentication smart contract shall be able to execute this function.")
 
         require(fanIsRegistered[fanAddress] == false);
         fairnessFans.push(fanAddress);
@@ -26,6 +25,16 @@ contract FairnessCoinSmartContract is ERC20 {
 
     }
 
+
+    function unRegisterFan(address fanAddress) public {
+        // require(msg.sender == tbd, "Only a reasonable authentication smart contract shall be able to execute this function.")
+        require(fanIsRegistered[fanAddress] == true, "The fan you tried to unregister, is not registered.");
+        uint256 indexOfFanAddress = indexOf(fairnessFans, fanAddress);
+        delete fairnessFans[indexOfFanAddress];
+        fanIsRegistered[fanAddress] = false;
+
+    }
+    
 
     function mintOneCoinPerRegisteredFan() public {
 
@@ -35,8 +44,11 @@ contract FairnessCoinSmartContract is ERC20 {
         uint256 counter = 0;
 
         while (counter < fairnessFans.length) {
-            _mint(fairnessFans[counter], 1 * 10 ** decimals());
-            counter = counter + 1;
+
+            if (fairnessFans[counter] != 0x0000000000000000000000000000000000000000) {
+                _mint(fairnessFans[counter], 1 * 10 ** decimals());
+                counter = counter + 1;
+            }
         }
 
     }
@@ -46,5 +58,18 @@ contract FairnessCoinSmartContract is ERC20 {
         return (block.timestamp - startTime)/(1 minutes);
     }
 
+
+    function indexOf(address[] memory array, address searchFor) private pure returns (uint256) {
+
+        for (uint256 i = 0; i < array.length; i++) {
+            if (array[i] == searchFor) {
+                
+              return i;
+            }
+        }
+
+        // return -1; // cannot return -1 ... --> returning the max ...
+        return 2**256 - 1;
+    }
 
 }
