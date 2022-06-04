@@ -9,21 +9,12 @@ contract FairnessCoinSmartContract is ERC20 {
 
     address[] fairnessFans = [0x414a6ace81a5336540506f852bCAb301891058fa];
     mapping(address => bool) fanIsRegistered;
+    uint startTime = block.timestamp;
+    uint minuteOfLastMint = 0;
 
 
     constructor() ERC20("FairnessCoin", "FC") { 
         fanIsRegistered[0x414a6ace81a5336540506f852bCAb301891058fa] = true;
-    }
-
-
-    function scheduleMinting() public {
-
-        uint256 counter = 0;
-        while (counter < fairnessFans.length) {
-            mint(fairnessFans[counter], 1 * 10 ** decimals());
-            counter = counter + 1;
-        }
-
     }
 
 
@@ -36,10 +27,24 @@ contract FairnessCoinSmartContract is ERC20 {
     }
 
 
-    function mint(address to, uint256 amount) internal {
+    function mintOneCoinPerRegisteredFan() public {
 
-        _mint(to, amount);
-        
+        require(minuteOfLastMint < getMinutesPassed(), "I also love Cash because it represents freedom - still you shall be patient.");
+        minuteOfLastMint = getMinutesPassed();
+
+        uint256 counter = 0;
+
+        while (counter < fairnessFans.length) {
+            _mint(fairnessFans[counter], 1 * 10 ** decimals());
+            counter = counter + 1;
+        }
+
     }
-    
+
+
+    function getMinutesPassed() public view returns(uint){
+        return (block.timestamp - startTime)/(1 minutes);
+    }
+
+
 }
