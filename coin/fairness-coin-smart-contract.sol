@@ -2,7 +2,6 @@
 pragma solidity ^0.8.2;
 
 import "https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/release-v4.6/contracts/token/ERC20/ERC20.sol";
-// import {ArrayOperations} from "https://raw.githubusercontent.com/smart-contract-modules-solidity/indexOf/main/indexOf.sol";
 
 contract FairnessCoinSmartContract is ERC20 {
 
@@ -19,7 +18,7 @@ contract FairnessCoinSmartContract is ERC20 {
     function registerFan(address fanAddress) public {
         // require(msg.sender == tbd, "Only a reasonable authentication smart contract shall be able to execute this function.")
 
-        require(fanIsRegistered[fanAddress] == false);
+        require(fanIsRegistered[fanAddress] == false, "The fan you tried to register is already registered.");
         fairnessFans.push(fanAddress);
         fanIsRegistered[fanAddress] = true;
 
@@ -28,13 +27,15 @@ contract FairnessCoinSmartContract is ERC20 {
 
     function unRegisterFan(address fanAddress) public {
         // require(msg.sender == tbd, "Only a reasonable authentication smart contract shall be able to execute this function.")
+
         require(fanIsRegistered[fanAddress] == true, "The fan you tried to unregister, is not registered.");
+        
         uint256 indexOfFanAddress = indexOf(fairnessFans, fanAddress);
         delete fairnessFans[indexOfFanAddress];
         fanIsRegistered[fanAddress] = false;
 
     }
-    
+
 
     function mintOneCoinPerRegisteredFan() public {
 
