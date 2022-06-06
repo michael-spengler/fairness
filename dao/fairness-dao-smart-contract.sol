@@ -1,6 +1,10 @@
 // SPDX-License-Identifier: AGPL-3.0 license
 pragma solidity ^0.8.2;
 
+interface IFairnessCoinSmartContract {
+    function getFanIsRegistered(address) external view returns (bool);
+}
+
 contract FairnessDAO {
 
     struct challengeStruct {
@@ -25,17 +29,17 @@ contract FairnessDAO {
     mapping(uint256 => proposalStruct) proposals;
     uint256 nextProposalId = 1; 
 
-
-    mapping(address => bool) fanIsRegistered;
+    IFairnessCoinSmartContract fairnessCoinSmartContract;
 
 
     constructor() {
-        fanIsRegistered[msg.sender] = true;
+        address smartContractAddressOfFairnessCoin = 0x0000000000000000000000000000000000000000;
+        fairnessCoinSmartContract = IFairnessCoinSmartContract(smartContractAddressOfFairnessCoin);
     }
 
 
     function createChallenge(string memory description) public {
-        require(fanIsRegistered[msg.sender] == true, "only registered fans can create challenges.");
+        require(fairnessCoinSmartContract.getFanIsRegistered(msg.sender) == true, "only registered fans can create challenges.");
 
         challengeStruct storage newChallenge = challenges[nextChallengeId];
         newChallenge.id = nextChallengeId;
@@ -45,7 +49,7 @@ contract FairnessDAO {
     }
 
     function createProposal(uint256 challengeID, string memory description) public {
-        require(fanIsRegistered[msg.sender] == true, "Only registered fans can create proposals.");
+        require(fairnessCoinSmartContract.getFanIsRegistered(msg.sender) == true, "only registered fans can create proposals.");
         require(challenges[challengeID].id > 0, "You should create a proposal for an existing challenge or create a challenge first.");
 
         proposalStruct storage newProposal = proposals[nextProposalId];
@@ -66,7 +70,7 @@ contract FairnessDAO {
 
     function voteOnProposal(uint256 proposalId, bool voteUp) public {
         require(proposals[proposalId].id > 0, "The proposalId which you have provided, does not exist.");
-        require(fanIsRegistered[msg.sender] == true, "Only registered fans can create proposals.");
+        require(fairnessCoinSmartContract.getFanIsRegistered(msg.sender) == true, "only registered fans can vote on proposals.");
         require(proposals[proposalId].deadline >= block.number, "It seems the deadline for this proposal was already reached.");
         require(proposals[proposalId].voteStatus[msg.sender] == false, "It seems you have already voted on this proposal.");
 
