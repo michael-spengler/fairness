@@ -31,7 +31,7 @@ contract FairnessCoinSmartContract is ERC20 {
         require(fanIsRegistered[fanAddress] == true, "The fan you tried to unregister, is not registered.");
         
         uint256 indexOfFanAddress = indexOf(fairnessFans, fanAddress);
-        delete fairnessFans[indexOfFanAddress];
+        delete fairnessFans[indexOfFanAddress]; // in solidity this does not reduce the length of the array - it sets the corresponding entry to the initial value
         fanIsRegistered[fanAddress] = false;
 
     }
