@@ -54,6 +54,9 @@ contract FairnessCoinSmartContract is ERC20 {
 
     }
 
+    function getFanIsRegistered(address addressToBeChecked) external view returns (bool) {
+        return fanIsRegistered[addressToBeChecked];
+    }
 
     function getMinutesPassed() public view returns(uint){
         return (block.timestamp - startTime)/(1 minutes);
