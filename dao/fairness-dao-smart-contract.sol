@@ -2,10 +2,10 @@
 pragma solidity ^0.8.2;
 
 interface IFairnessCoinSmartContract {
-    function getFanIsRegistered(address) external view returns (bool);
+    function getFanIsRegistered(address addressToBeChecked) external view returns (bool);
 }
 
-contract FairnessDAO {
+contract FairnessDAOSmartContract {
 
     struct challengeStruct {
         uint256 id;
@@ -29,11 +29,22 @@ contract FairnessDAO {
     mapping(uint256 => proposalStruct) proposals;
     uint256 nextProposalId = 1; 
 
+    struct proposalExtStruct {
+        uint256 id;
+        uint256 challengeID;
+        string description;
+        uint deadline; // blocknumber
+        uint256 votesUp;
+        uint256 votesDown;
+        bool countConducted;
+        bool passed;
+    }
+
     IFairnessCoinSmartContract fairnessCoinSmartContract;
 
 
     constructor() {
-        address smartContractAddressOfFairnessCoin = 0x0000000000000000000000000000000000000000;
+        address smartContractAddressOfFairnessCoin = 0xD7ACd2a9FD159E69Bb102A1ca21C9a3e3A5F771B;
         fairnessCoinSmartContract = IFairnessCoinSmartContract(smartContractAddressOfFairnessCoin);
     }
 
@@ -59,7 +70,6 @@ contract FairnessDAO {
         newProposal.deadline = block.number + 100;
         newProposal.votesUp = 0;
         newProposal.votesDown = 0;
-        // mapping(address => bool) voteStatus;
         newProposal.countConducted = false;
         newProposal.passed = false;
 
@@ -81,6 +91,45 @@ contract FairnessDAO {
         }
 
         proposals[proposalId].voteStatus[msg.sender] = true;
+    }
+
+
+    function getChallenge(uint256 id) public view returns(challengeStruct memory) {
+        return challenges[id];
+    }
+
+    function getProposal(uint256 id) public view returns(proposalExtStruct memory) {
+
+        proposalExtStruct memory proposalExt;
+
+        proposalExt.id = proposals[id].id;
+        proposalExt.challengeID = proposals[id].challengeID;
+        proposalExt.description = proposals[id].description;
+        proposalExt.deadline = proposals[id].deadline;
+        proposalExt.votesUp = proposals[id].votesUp;
+        proposalExt.votesDown = proposals[id].votesDown;
+        proposalExt.countConducted = proposals[id].countConducted;
+        proposalExt.passed = proposals[id].passed;
+        
+        return proposalExt;
+    }
+
+    function getProposalIdsByChallengId(uint256 challengeId) public view returns(uint[] memory) {
+        
+        uint256 counter = 1;
+
+        uint[] memory proposalIds = new uint[](100);
+
+        while (proposals[counter].id != 0) {
+
+            if (proposals[counter].challengeID == challengeId) {
+                proposalIds[counter - 1] = proposals[counter].id;
+            }
+            counter++;
+        }
+
+        
+        return proposalIds;
     }
 
 }
