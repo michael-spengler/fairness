@@ -13,6 +13,8 @@ One FC is minted per day and per registered wallet (proof of humanity) and autom
 
 The received Fairness Coins can either be sold or used as governance token in the Fairness DAO aka World Fairness Forum.
 
+## Free Speech
+Media shall inform and educate instead of making politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream chatplatform which has a fully decentralized backend, frontend (via ens.domains) and a fully decentralized content moderation and user authentication.
 
 ## Decentralized Governance
 The [Fairness DAO](https://github.com/distributed-ledger-technology/fairness/tree/main/dao) shall foster real = direct democracy and with that fair systems.
