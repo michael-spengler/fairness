@@ -4,31 +4,56 @@
     export let backendBaseURL;
     let textarea;
 
+    import { ethers } from "ethers";
+
     function clickTextarea() {
         alert("successfully copied text to your clipboard");
         textarea.select();
         document.execCommand("copy");
     }
 
+    function isEthereumAddress(address) {
+        return ethers.utils.isAddress(address);
+    }
+
+    function isProperFacebookLink(link) {
+        if (
+            link.indexOf("https://www.facebook.com/") !== 0 &&
+            link.indexOf("https://facebook.com/") !== 0 &&
+            link.indexOf("https://m.facebook.com/") !== 0
+        ) {
+            return false;
+        }
+        return true;
+    }
+
     async function confirmData() {
         try {
-            const response = await fetch(
-                `${backendBaseURL}/api/v1/addNewcomer`,
-                {
-                    method: "post",
-                    headers: {
-                        Accept: "application/json",
-                        "Content-Type": "application/json",
-                    },
-                    body: JSON.stringify({
-                        walletAddress,
-                        socialMediaProfileLink,
-                    }),
-                }
-            );
+            if (isEthereumAddress(walletAddress) === false) {
+                alert("It seems you did not enter a correct Ethereum address.");
+            } else if (isProperFacebookLink(socialMediaProfileLink) === false) {
+                alert(
+                    "It seems you did not enter a correct Facebook Profile Link."
+                );
+            } else {
+                const response = await fetch(
+                    `${backendBaseURL}/api/v1/addNewcomer`,
+                    {
+                        method: "post",
+                        headers: {
+                            Accept: "application/json",
+                            "Content-Type": "application/json",
+                        },
+                        body: JSON.stringify({
+                            walletAddress,
+                            socialMediaProfileLink,
+                        }),
+                    }
+                );
 
-            const serverInfo = await response.json();
-            alert(serverInfo.status);
+                const serverInfo = await response.json();
+                alert(serverInfo.status);
+            }
         } catch (error) {
             alert(
                 `${error.message}. Please raise an issue on https://github.com/michael-spengler/fairness`
@@ -57,19 +82,15 @@
 
 <p />
 {#if walletAddress != "" && socialMediaProfileLink != ""}
-<button on:click={() => confirmData()}>
-    Save & Get Lucky
-</button>
+    <button on:click={() => confirmData()}> Save & Get Lucky </button>
 {/if}
-
 
 <style>
     input {
         width: 95%;
     }
 
-
     textarea {
-        background-color:grey !important;
+        background-color: grey !important;
     }
 </style>
