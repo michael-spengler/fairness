@@ -32,6 +32,6 @@ You can start the off-chain server to listen on port 3001 via
 
 ```sh
 
-deno run --allow-net --allow-read server.ts 3001
+deno run --allow-net --allow-read --allow-write server.ts 3001
 
 ```

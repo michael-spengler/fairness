@@ -2,8 +2,26 @@
 	let walletAddress = "";
 	let socialMediaProfileLink = "";
 	let visitorLevel = 0;
-	function confirmData() {
-		alert("confirmed");
+	async function confirmData() {
+		try {
+			await fetch("http://localhost:3001/api/v1/addNewcomer", {
+				method: "post",
+				headers: {
+					Accept: "application/json",
+					"Content-Type": "application/json",
+				},
+
+				//make sure to serialize your JSON body
+				body: JSON.stringify({
+					walletAddress,
+					socialMediaProfileLink,
+				}),
+			});
+		} catch (error) {
+			alert(
+				`I could not send the data to the server. Maybe the server is down. Please raise an issue on https://github.com/michael-spengler/fairness`
+			);
+		}
 	}
 	function clickNewcomer() {
 		visitorLevel = 1;
@@ -142,19 +160,4 @@
 		z-index: 1; /* Specify a stack order in case you're using a different order for other elements */
 		cursor: pointer; /* Add a pointer on hover */
 	}
-	/* 
-	.home {
-		height: 100vh;
-		position: relative;
-	}
-
-	.overlay {
-		position: absolute;
-		top: 0;
-		left: 0;
-		bottom: 0;
-		right: 0;
-		z-index: 2;
-		background: rgba(0, 0, 0, 0.6);
-	} */
 </style>
