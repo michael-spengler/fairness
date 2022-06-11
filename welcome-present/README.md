@@ -1,4 +1,4 @@
-# CultDAO Welcome Gift
+# CultDAO Welcome Present
 
 ## For Users
 
