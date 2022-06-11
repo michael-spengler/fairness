@@ -13,6 +13,8 @@ Contributions (Issues, Pull Requests...) are welcome - feel free to get in touch
 ## Welcome Present 
 Newcomers to this project might claim their [Welcome Present](https://peer-2-peer.eth.link). 
 
+[![1500x500](https://user-images.githubusercontent.com/43786652/173186666-59020ce5-d29e-457a-94ee-a389471ac2de.jpeg)](https://peer-2-peer.eth.link)
+
 ## Universal Basic Income
 The [Fairness Coin (FC)](https://github.com/distributed-ledger-technology/fairness/tree/main/coin) is a newly created currency which enables a Universal Basic Income. It is currently deployed on the Ropsten Test Net in a prototyping mode. Before a potential launch on mainnet we will ensure that the mechanisms are sufficiently tested.
 
