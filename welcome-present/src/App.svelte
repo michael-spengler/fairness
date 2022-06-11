@@ -58,7 +58,7 @@
 
 	<div id="overlay">
 		<h1>CultDAO Ecosystem</h1>
-		<h1>Welcome Present</h1>
+		<h2>Welcome Present</h2>
 		<p>
 			Some of us are pretty lucky as we could explore the distributed
 			ledger space from early on.
@@ -162,24 +162,25 @@
 
 <style>
 	main {
+		font-family: "Trebuchet MS", sans-serif;
 		text-align: center;
-		padding: 1em;
-		max-width: 240px;
-		margin: 0 auto;
 		color: white;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	h1 {
+		color: red;
+		text-transform: uppercase;
+		font-size: 4.5em;
+		font-weight: 200;
+		margin-top: 7vh;
+	}
+	h2 {
 		color: turquoise;
 		text-transform: uppercase;
-		font-size: 4em;
+		font-size: 3em;
 		font-weight: 100;
-	}
-
-	@media (min-width: 640px) {
-		main {
-			max-width: none;
-		}
 	}
 
 	video {
@@ -187,19 +188,19 @@
 	}
 
 	#overlay {
-		position: fixed; /* Sit on top of the page content */
-		width: 100%; /* Full width (cover the whole page) */
+		position: absolute; /* Sit on top of the page content */
+		width: 100%; /* Full height (cover the whole page) */
 		height: 100%; /* Full height (cover the whole page) */
 		top: 0;
 		left: 0;
 		right: 0;
 		bottom: 0;
-		background-color: rgba(
+		/* background-color: rgba(
 			0,
 			0,
 			0,
 			0.5
-		); /* Black background with opacity */
+		);  */
 		z-index: 1; /* Specify a stack order in case you're using a different order for other elements */
 		cursor: pointer; /* Add a pointer on hover */
 	}

@@ -36,3 +36,7 @@ You can start the off-chain server to listen on port 3001 via
 deno run --allow-net --allow-read --allow-write server.ts 3001
 
 ```
+
+### Page Provisioning 
+The UI is provided via https://peer-2-peer.eth (thanks to https://ens.domains).
+
