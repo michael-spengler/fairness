@@ -2,7 +2,7 @@
 
 Welcome to a project named Fairness. Nomen est Omen.
 
-This project supports the [cultdao.io](https://cultdao.io) and is meant to prototype "ecosystem features" for the cult :) 
+This project supports the [cultdao.io](https://cultdao.io) and is meant to prototype "ecosystem features" for [the cult](https://www.youtube.com/watch?v=6IoAp1f3tVk) :) 
 
 This project leverages the [Distributed Ledger Technology](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture) to build  incentive systems which foster fairness. 
 
