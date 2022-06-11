@@ -1,25 +1,37 @@
 <script lang="ts">
+	import { onMount } from "svelte";
+
+	const backendBaseURL = "http://localhost:3001";
+
+	let newcomers = [];
 	let walletAddress = "";
 	let socialMediaProfileLink = "";
 	let visitorLevel = 0;
+
 	async function confirmData() {
 		try {
-			await fetch("http://localhost:3001/api/v1/addNewcomer", {
-				method: "post",
-				headers: {
-					Accept: "application/json",
-					"Content-Type": "application/json",
-				},
+			const response = await fetch(
+				`${backendBaseURL}/api/v1/addNewcomer`,
+				{
+					method: "post",
+					headers: {
+						Accept: "application/json",
+						"Content-Type": "application/json",
+					},
+					body: JSON.stringify({
+						walletAddress,
+						socialMediaProfileLink,
+					}),
+				}
+			);
 
-				//make sure to serialize your JSON body
-				body: JSON.stringify({
-					walletAddress,
-					socialMediaProfileLink,
-				}),
-			});
+			const serverInfo = await response.json();
+			if (serverInfo.status !== "mission accomplished") {
+				alert(serverInfo.status);
+			}
 		} catch (error) {
 			alert(
-				`I could not send the data to the server. Maybe the server is down. Please raise an issue on https://github.com/michael-spengler/fairness`
+				`${error.message}. Please raise an issue on https://github.com/michael-spengler/fairness`
 			);
 		}
 	}
@@ -29,6 +41,11 @@
 	function clickInsider() {
 		visitorLevel = 2;
 	}
+
+	onMount(async () => {
+		const response = await fetch(`${backendBaseURL}/api/v1/getNewcomers`);
+		newcomers = await response.json();
+	});
 </script>
 
 <main>
@@ -112,7 +129,33 @@
 			<p />
 			on their profile, you might send some of them some Cult, so that they
 			collect some experiences and so that we further improve the distributedness
-			of our cult :)<br />
+			of our cult :)
+			<p><br /></p>
+
+			<table>
+				<tr>
+					<th>Wallet Address</th>
+					<th>Social Media Profile Link</th>
+				</tr>
+				{#each newcomers as newcomer}
+					<tr>
+						<td>
+							<a
+								href="https://etherscan.io/address/{newcomer.walletAddress}"
+							>
+								{newcomer.walletAddress}
+							</a></td
+						>
+						<td
+							><a
+								href={newcomer.socialMediaProfileLink}
+								target="_blank"
+								>{newcomer.socialMediaProfileLink}</a
+							></td
+						>
+					</tr>
+				{/each}
+			</table>
 		{/if}
 	</div>
 </main>
@@ -159,5 +202,20 @@
 		); /* Black background with opacity */
 		z-index: 1; /* Specify a stack order in case you're using a different order for other elements */
 		cursor: pointer; /* Add a pointer on hover */
+	}
+
+	table {
+		margin-left: auto;
+		margin-right: auto;
+		font-family: arial, sans-serif;
+		border-collapse: collapse;
+		width: 60%;
+	}
+
+	td,
+	th {
+		border: 1px solid #dddddd;
+		text-align: left;
+		padding: 8px;
 	}
 </style>

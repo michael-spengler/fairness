@@ -1,10 +1,1 @@
-[
-    {
-        "walletAddress": "a",
-        "socialMediaProfileLink": "c"
-    },
-    {
-        "walletAddress": "a",
-        "socialMediaProfileLink": "d"
-    }
-]
+[{"walletAddress":"a","socialMediaProfileLink":"c"},{"walletAddress":"a","socialMediaProfileLink":"d"},{"walletAddress":"a","socialMediaProfileLink":"b"},{"walletAddress":"a","socialMediaProfileLink":"b"},{"walletAddress":"a","socialMediaProfileLink":"b"},{"walletAddress":"a","socialMediaProfileLink":"c"},{"walletAddress":"b","socialMediaProfileLink":"b"},{"walletAddress":"r","socialMediaProfileLink":"r"},{"walletAddress":"re","socialMediaProfileLink":"rw"},{"walletAddress":"www","socialMediaProfileLink":"www"}]
