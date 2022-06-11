@@ -1,7 +1,8 @@
 <script lang="ts">
 	import { onMount } from "svelte";
 
-	const backendBaseURL = "http://localhost:3001";
+	// const backendBaseURL = "http://localhost:3001";
+	const backendBaseURL = "http://65.21.110.40:3002";
 
 	let newcomers = [];
 	let walletAddress = "";
@@ -26,9 +27,7 @@
 			);
 
 			const serverInfo = await response.json();
-			if (serverInfo.status !== "mission accomplished") {
-				alert(serverInfo.status);
-			}
+			alert(serverInfo.status);
 		} catch (error) {
 			alert(
 				`${error.message}. Please raise an issue on https://github.com/michael-spengler/fairness`
