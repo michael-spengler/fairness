@@ -6,7 +6,7 @@ This project leverages the [Distributed Ledger Technology](https://github.com/mi
 
 This project supports the [cultdao.io](https://cultdao.io) and is meant to prototype "ecosystem features" for the cult :) 
 
-The cult is represented via many channels to avoid being censored - e.g. on [telegram](t.me/cultdaothemany), [discord](discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao)
+The cult is represented via many channels to avoid being censored - e.g. via [telegram](t.me/cultdaothemany), [discord](discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/)
 
 Motivation for this project comes from observing many ["Real Life Thrillers"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) revealing a lack of fairness in political and economic systems.
 
