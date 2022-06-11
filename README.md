@@ -11,7 +11,8 @@ Motivation for this project comes from observing many ["Real Life Thrillers"](ht
 Contributions (Issues, Pull Requests...) are welcome - feel free to get in touch. The cult is represented via many channels to avoid being censored - e.g. via [telegram](t.me/cultdaothemany), [discord](discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/)
 
 ## Welcome Present 
-Newcomers to this project might claim their [Welcome Present](https://peer-2-peer.eth.link). 
+Newcomers to this project might claim their [Welcome Present](https://peer-2-peer.eth.link).   
+Facebook seems to be the platform with the lowest fake-/real account ratio - this is why [this page](https://peer-2-peer.eth.link) leverages facebook. If someone has [cooler approaches](https://www.youtube.com/watch?v=TbyVyVNsyys) ready yet, feel free to raise a PR.  
 
 [![1500x500](https://user-images.githubusercontent.com/43786652/173186666-59020ce5-d29e-457a-94ee-a389471ac2de.jpeg)](https://peer-2-peer.eth.link)
 
