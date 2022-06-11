@@ -1,40 +1,17 @@
 <script>
     import { onMount } from "svelte";
+    import Newcomer from "./Newcomer.svelte";
 
-    const backendBaseURL = "http://localhost:3001";
+    
+    let backendBaseURL = "http://localhost:3001";
     // const backendBaseURL = "http://65.21.110.40:3002";
-
+    
     let newcomers = [];
     let walletAddress = "";
     let socialMediaProfileLink = "";
     let visitorLevel = 0;
-    let textarea;
 
-    async function confirmData() {
-        try {
-            const response = await fetch(
-                `${backendBaseURL}/api/v1/addNewcomer`,
-                {
-                    method: "post",
-                    headers: {
-                        Accept: "application/json",
-                        "Content-Type": "application/json",
-                    },
-                    body: JSON.stringify({
-                        walletAddress,
-                        socialMediaProfileLink,
-                    }),
-                }
-            );
-
-            const serverInfo = await response.json();
-            alert(serverInfo.status);
-        } catch (error) {
-            alert(
-                `${error.message}. Please raise an issue on https://github.com/michael-spengler/fairness`
-            );
-        }
-    }
+    
     function clickNewcomer() {
         visitorLevel = 1;
     }
@@ -42,19 +19,14 @@
         visitorLevel = 2;
     }
 
-    function clickTextarea() {
-        alert("successfully copied text to your clipboard")
-		textarea.select();
-		document.execCommand('copy');
-    }
 
     onMount(async () => {
         const response = await fetch(`${backendBaseURL}/api/v1/getNewcomers`);
         newcomers = await response.json();
     });
+
 </script>
 
-<!-- The video -->
 <video autoplay muted loop id="myVideo">
     <source
         src="https://cultdao.io/wp-content/uploads/2022/01/Stormy-Sky2.mp4"
@@ -62,10 +34,11 @@
     />
 </video>
 
-<!-- Optional: some overlay text to describe the video -->
 <div class="content">
-    <h1>CultDAO Ecosystem</h1>
-    <h2>Welcome Present</h2>
+    <div on:click="{() => {location.reload(true)}}">
+        <h1>CultDAO Ecosystem</h1>
+        <h2>Welcome Present</h2>
+    </div>
 
     {#if visitorLevel === 0}
         <p>
@@ -94,32 +67,8 @@
     {/if}
 
     {#if visitorLevel == 1}
-        <br />
-        <input
-            bind:value={walletAddress}
-            placeholder="Please enter your public wallet address"
-        />
+    <Newcomer walletAddress={walletAddress} socialMediaProfileLink={socialMediaProfileLink} backendBaseURL={backendBaseURL}></Newcomer>
 
-        <br />
-        <input
-            bind:value={socialMediaProfileLink}
-            placeholder="Please enter your facebook profile link"
-        />
-
-        <p />
-        ... post the following statement publicly on your facebook profile
-        <br>
-        <div on:click="{() => clickTextarea()}">
-            <textarea name="" id="" cols="30" rows="3" readonly bind:this={textarea}>I like the https://cultdao.io. I'm ready to receive a welcome present from https://peer-2-peer.eth.link.</textarea>
-        </div>
-
-        <p><br /></p>
-    {/if}
-
-    {#if visitorLevel === 1 && walletAddress != "" && socialMediaProfileLink != ""}
-        <button on:click={() => confirmData()}>
-            That's Correct! I'm ready to receive cult!
-        </button>
     {/if}
 
     <p><br /></p>
@@ -166,13 +115,7 @@
 </div>
 
 <style>
-    input {
-        width: 95%;
-    }
 
-    textarea {
-        background-color:grey !important;
-    }
     a {
         color: red;
     }
