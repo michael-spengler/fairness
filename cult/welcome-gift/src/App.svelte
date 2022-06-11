@@ -5,6 +5,12 @@
 	function confirmData() {
 		alert("confirmed");
 	}
+	function clickNewcomer() {
+		visitorLevel = 1;
+	}
+	function clickInsider() {
+		visitorLevel = 2;
+	}
 </script>
 
 <main>
@@ -34,14 +40,13 @@
 
 		<p><br /></p>
 
-		{#if visitorLevel === 0}
-			<button on:click={() => confirmData()}> I'm a newcomer </button>
-			<button on:click={() => confirmData()}> I'm an insider </button>
-			<br />
-		{/if}
+		<button on:click={() => clickNewcomer()}> I'm a newcomer </button>
+		<button on:click={() => clickInsider()}> I'm an insider </button>
+		<br />
 
 		{#if visitorLevel == 1}
-			If you are a newcomer feel free to ...
+			<br />
+			Feel free to ...
 			<p><br /></p>
 
 			... enter your wallet address in which you want to receive CULT
@@ -58,6 +63,13 @@
 
 			<p><br /></p>
 
+			{#if walletAddress != ""}
+				Your Wallet Address:
+				<a href="https://etherscan.io/address/{walletAddress}">
+					{walletAddress}
+				</a> <br />
+			{/if}
+
 			{#if socialMediaProfileLink != ""}
 				Your Social Media Profile Link: <a
 					href={socialMediaProfileLink}
@@ -65,20 +77,25 @@
 				> <br />
 			{/if}
 
-			{#if walletAddress != ""}
-				Your Wallet Address: {walletAddress} <br />
-			{/if}
-
 			<p><br /></p>
 			{#if walletAddress != "" && socialMediaProfileLink != ""}
-				<button on:click={() => confirmData()}> That's Correct </button>
+				<button on:click={() => confirmData()}>
+					That's Correct! I'm ready to receive cult!
+				</button>
 			{/if}
 		{/if}
 
 		<p><br /></p>
-		Here is a list of newcomers. As soon as they posted the following statements
-		to the CultDAO publicly on their profile, everyone who likes them, can send
-		them some Cult.
+		{#if visitorLevel === 2}
+			Below you find a list of newcomers. As soon as they posted
+			<p />
+			"I like the https://cultdao.io and I am ready to receive a welcome present
+			from https://peer-2-peer.eth.link"
+			<p />
+			on their profile, you might send some of them some Cult, so that they
+			collect some experiences and so that we further improve the distributedness
+			of our cult :)<br />
+		{/if}
 	</div>
 </main>
 
