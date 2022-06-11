@@ -10,12 +10,8 @@ Motivation for this project comes from observing many ["Real Life Thrillers"](ht
 
 Contributions (Issues, Pull Requests...) are welcome - feel free to get in touch. The cult is represented via many channels to avoid being censored - e.g. via [telegram](t.me/cultdaothemany), [discord](discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/)
 
-## Welcome Present Feature
+## Welcome Present 
 Newcomers to this project might claim their [Welcome Present](https://peer-2-peer.eth.link). 
-
-## Promotion Info Supporting CultDAO.io
-1. in [german language](https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/)  
-2. ... links to be added later ...
 
 ## Universal Basic Income
 The [Fairness Coin (FC)](https://github.com/distributed-ledger-technology/fairness/tree/main/coin) is a newly created currency which enables a Universal Basic Income. It is currently deployed on the Ropsten Test Net in a prototyping mode. Before a potential launch on mainnet we will ensure that the mechanisms are sufficiently tested.
@@ -36,4 +32,8 @@ The specific voter can earn a reward if his chosen answer option turns out to be
 The specific voter looses his "betted" FC if his chosen answer option turns out not to be the majority's opinion. 
 
 This mechanism incentivices active voters to vote in the interest of the majority of the community.
+
+## Promotion Info Supporting CultDAO.io
+1. in [german language](https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/)  
+2. ... links to be added later ...
 

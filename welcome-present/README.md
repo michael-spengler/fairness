@@ -1,6 +1,7 @@
 # CultDAO Welcome Present
 
 ## For Users
+Newcomers to this project might claim their [Welcome Present](https://peer-2-peer.eth.link). 
 
 ## For Developers
 Contributions are welcome. To simplify contributions I describe how this project was created.  
