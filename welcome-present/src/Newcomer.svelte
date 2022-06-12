@@ -87,9 +87,14 @@
 
 <style>
     input {
-        width: 95%;
+        width: 55%;
     }
 
+    @media only screen and (max-width: 700px) {
+        input {
+            width: 95%;
+        }   
+    }
     textarea {
         background-color: grey !important;
     }
