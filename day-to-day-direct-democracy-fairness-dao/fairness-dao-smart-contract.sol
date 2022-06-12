@@ -1,6 +1,13 @@
 // SPDX-License-Identifier: AGPL-3.0 license
 pragma solidity ^0.8.2;
 
+
+
+// Under Construction - Prototyping and Checking if RVLT might already accomplish what is also intended with this smart contract.
+
+
+
+
 interface IFairnessCoinSmartContract {
     function getFanIsRegistered(address addressToBeChecked) external view returns (bool);
 }

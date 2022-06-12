@@ -23,8 +23,12 @@ One Fairness Coin is minted per day and per registered wallet (proof of humanity
 
 The received Fairness Coins can either be sold or used as governance token in the Fairness DAO aka World Fairness Forum.
 
+// Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
+
 ## Free Speech
 Media shall inform and educate in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream chatplatform which has a fully decentralized backend and frontend (via ens.domains) including a fully decentralized content moderation and user authentication.
+
+// Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
 
 ## Decentralized Governance
 The [Fairness DAO](https://github.com/distributed-ledger-technology/fairness/tree/main/dao) shall foster real = direct democracy and with that fair systems. It will contain rather day to day decision making features - e.g. comparing it to the [cultdao.io](https://cultdao.io) which is rather focused on relatively bold investment decisions.  
@@ -35,6 +39,8 @@ The specific voter can earn a reward if his chosen answer option turns out to be
 The specific voter looses his "betted" FC if his chosen answer option turns out not to be the majority's opinion. 
 
 This mechanism incentivices active voters to vote in the interest of the majority of the community.
+
+// Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
 
 ## Promotion Info Supporting CultDAO.io
 1. in [german language](https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/)  
