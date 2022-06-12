@@ -47,19 +47,15 @@
             ledger space from early on.
         </p>
         <p>
-            So some of us have strong wallets containing many valuable <a
-                href="https://cultdao.io"
-                target="_blank">cultdao.io</a
-            > tokens.
-        </p>
-        <p>
             Some of <a
                 href="https://github.com/michael-spengler/fairness"
                 target="_blank">us</a
             >
             want to give newcomers the chance to get familiar with
-            <a href="https://metamask.io" target="_blank">metamask.io</a> and are
-            ready to donate some CULT to those newcomers.
+            <a href="https://metamask.io" target="_blank">metamask.io</a> and
+            are ready to donate some
+            <a href="https://cultdao.io" target="_blank">cultdao.io</a> tokens to
+            those newcomers.
         </p>
         <p><br /></p>
 
@@ -72,7 +68,7 @@
     {/if}
 
     {#if visitorLevel === 2}
-        <Insider newcomers={newcomers} />
+        <Insider {newcomers} />
     {/if}
 </div>
 
@@ -114,5 +110,13 @@
         font-weight: 100;
     }
 
-    
+    @media only screen and (max-height: 700px) {
+        h1 {
+        font-size: 2.7em;
+        margin-top: 7vh;
+    }
+    h2 {
+        font-size: 1.8em;
+    }
+    }
 </style>
