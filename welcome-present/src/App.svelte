@@ -3,8 +3,8 @@
     import Insider from "./Insider.svelte";
     import Newcomer from "./Newcomer.svelte";
 
-    let backendBaseURL = "http://localhost:3001";
-    // const backendBaseURL = "http://65.21.110.40:3002";
+    // let backendBaseURL = "http://localhost:3001";
+    const backendBaseURL = "http://65.21.110.40:3002";
 
     let newcomers = [];
     let walletAddress = "";
