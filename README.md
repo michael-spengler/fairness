@@ -62,3 +62,6 @@ In order to exploit manipulation induced (non fundamentals based...) volatility,
 1. in [german language](https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/)  
 2. ... links to be added later ...
 
+
+[![Screenshot 2022-06-13 at 17 15 28](https://user-images.githubusercontent.com/43786652/173386659-e8a73aec-bd77-4a73-8e6e-9a1dcc0e480d.png)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
+
