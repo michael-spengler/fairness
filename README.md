@@ -10,7 +10,7 @@ Motivation for this project comes from observing many ["Real Life Thrillers"](ht
 
 Contributions (Issues, Pull Requests...) are welcome - feel free to get [in touch](https://t.me/danceplanner).    
 
-You might want to stay up to date about the cult  via [telegram](t.me/cultdaothemany), [discord](discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/), ...  
+You might want to stay up to date about the cult  via [telegram](t.me/cultdaothemany), [discord](https://discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/), ...  
 
 If you are a top 50 guardian, wanting to bring this project to the next level, feel free to contact [me](https://t.me/danceplanner) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
 
