@@ -58,10 +58,14 @@ This mechanism incentivices active voters to vote in the interest of the majorit
 ## Decentralized Volatility Farming
 In order to exploit manipulation induced (non fundamentals based...) volatility, there shall be a smart contract which applies https://deno.land/x/bollinger_bands based swaps between pairs like ETH/CULT. This smart contract shall automatically accumulate ETH, which shall be automatically staked to further stabilize the (PoS) mainnet. This approach could also be applied on other chains of course. 
 
-## Promotion Info Supporting CultDAO.io
-1. in [german language](https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/)  
-2. ... links to be added later ...
-
 
 [![Screenshot 2022-06-13 at 17 15 28](https://user-images.githubusercontent.com/43786652/173386659-e8a73aec-bd77-4a73-8e6e-9a1dcc0e480d.png)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
+
+## Promotion Info Supporting CultDAO.io
+// under construction
+1. ... to support a broad mainstream adoption of our cult, we should probably translate the manifesto ...
+2. also sharing some random posts in other languages [like here in german language](https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/) might be helpful  
+3. ... tbc ...  
+
+
 
