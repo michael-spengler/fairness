@@ -13,12 +13,12 @@ Contributions (Issues, Pull Requests...) are welcome - feel free to get in touch
 If you are a top 50 guardian, wanting to bring this project to the next level, feel free to contact [me](https://t.me/danceplanner) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
 
 ## Welcome Present 
-Newcomers to this project might claim their [Welcome Present](https://peer-2-peer.eth.link).   
-Facebook seems to be the platform with the lowest fake-/real account ratio - this is why [this page](https://peer-2-peer.eth.link) leverages facebook. If someone has [cooler approaches](https://www.youtube.com/watch?v=TbyVyVNsyys) ready yet, feel free to raise a PR.  
+Newcomers to this project might claim their [Welcome Present](https://peer-2-peer.eth.limo).   
+Facebook seems to be the platform with the lowest fake-/real account ratio - this is why [this page](https://peer-2-peer.eth.limo) leverages facebook. If someone has [cooler approaches](https://www.youtube.com/watch?v=TbyVyVNsyys) ready yet, feel free to raise a PR.  
 
-[![1500x500](https://user-images.githubusercontent.com/43786652/173186666-59020ce5-d29e-457a-94ee-a389471ac2de.jpeg)](https://peer-2-peer.eth.link)
+[![1500x500](https://user-images.githubusercontent.com/43786652/173186666-59020ce5-d29e-457a-94ee-a389471ac2de.jpeg)](https://peer-2-peer.eth.limo)
 
-If this [Welcome Present Feature](https://peer-2-peer.eth.link) becomes successful in terms of improving the distributedness of our CULT and with that improving the potential for more - real - direct democracy & fairness, we might implement a decentralized / smart contract based backend for it. Especially when it comes to improving the transparency on which insider donated to which newcomer, this might be a great contribution for what RVLT is about to support. 
+If this [Welcome Present Feature](https://peer-2-peer.eth.limo) becomes successful in terms of improving the distributedness of our CULT and with that improving the potential for more - real - direct democracy & fairness, we might implement a decentralized / smart contract based backend for it. Especially when it comes to improving the transparency on which insider donated to which newcomer, this might be a great contribution for what RVLT is about to support. 
 
 ## Universal Basic Income
 The [Fairness Coin (FC)](https://github.com/distributed-ledger-technology/fairness/tree/main/coin) is a newly created currency which enables a Universal Basic Income. It is currently deployed on the Ropsten Test Net in a prototyping mode. Before a potential launch on mainnet we will ensure that the mechanisms are sufficiently tested.
