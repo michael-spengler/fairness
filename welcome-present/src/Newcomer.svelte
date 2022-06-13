@@ -77,7 +77,7 @@
 ... post the following statement publicly on your facebook profile
 <p />
 <div on:click={() => clickTextarea()}>
-    <textarea name="" id="" cols="30" rows="3" readonly bind:this={textarea}>I like the https://cultdao.io. I'm ready to receive a welcome present from https://peer-2-peer.eth.link.</textarea>
+    <textarea name="" id="" cols="30" rows="3" readonly bind:this={textarea}>I like the https://cultdao.io. I'm ready to receive a welcome present from https://peer-2-peer.eth.limo.</textarea>
 </div>
 
 <p />
