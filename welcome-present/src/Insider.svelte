@@ -1,4 +1,6 @@
 <script>
+    import { onMount } from "svelte";
+
     export let newcomers;
 
     let randomNewcomer = undefined;
@@ -8,6 +10,11 @@
         );
         randomNewcomer = newcomers[randomIndex];
     }
+
+    onMount(async () => {
+        pickNewcomer()
+    });
+  
 </script>
 
 <p><br /></p>
@@ -17,7 +24,13 @@ on facebook, so that they collect some experiences and so that
 further improve the distributedness of our cult :)
 <p><br /></p>
 {#if newcomers.length > 0}
+    {#if newcomers.length === 1}
+        There is {newcomers.length} newcomer in the queue.
+    {/if}
+    
     {#if newcomers.length > 1}
+
+        There are {newcomers.length} newcomers in the queue.
         <button
             on:click={() => {
                 pickNewcomer();
@@ -26,6 +39,7 @@ further improve the distributedness of our cult :)
             Show a Random Newcomer
         </button>
     {/if}
+    
     {#if randomNewcomer !== undefined}
         <p />
         <a href="https://etherscan.io/address/{randomNewcomer.walletAddress}">
