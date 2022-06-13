@@ -41,7 +41,7 @@ As long as fiat money (= political manipulation money) plays a role, it seems to
 It maybe a good idea to have further approaches like [gitcoin.co](https://gitcoin.co) in place and or to extend gitcoin's features in a way that it also serves as a general decentralized version of [fiverr](https://www.fiverr.com/). Gitcoin is imo great for web3 insiders. I wonder what is necessary to foster a peer 2 peer economy even further fostering "mainstream adoption"...
 
 ## General Open Source Rewards
-I would appreciate if also web2 public good creators could receive some rewards - e.g. for laying the foundation for successful the off-chain parts - thinking e.g. about the guys behind [deno.land](https://deno.land/) (Ryan, Lukas, ...). Maybe the [Contributor Assistant](https://github.com/contributor-assistant) could deliver inspirations... on how this could be further facilitated / integrated into those public goods projects.  
+I would appreciate if also web2 public good creators could receive some rewards - e.g. for laying the foundation for successful off-chain parts - thinking e.g. about the guys behind [deno.land](https://deno.land/) (Ryan, Lukas, ...). Maybe the [Contributor Assistant](https://github.com/contributor-assistant) could deliver inspirations... on how this could be further facilitated / integrated into those public goods projects.  
 
 ## Decentralized Governance
 The [Fairness DAO](https://github.com/distributed-ledger-technology/fairness/tree/main/dao) shall foster real = direct democracy and with that fair systems. It will contain rather day to day decision making features - e.g. comparing it to the [cultdao.io](https://cultdao.io) which is rather focused on relatively bold investment decisions.  
