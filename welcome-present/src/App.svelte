@@ -4,7 +4,7 @@
     import Newcomer from "./Newcomer.svelte";
 
     // let backendBaseURL = "http://localhost:3001";
-    const backendBaseURL = "http://49.12.6.159:8443";
+    const backendBaseURL = "https://sport-kamasutra.org:8443";
 
     let newcomers = [];
     let walletAddress = "";

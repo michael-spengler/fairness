@@ -4,7 +4,7 @@ import { opineCors } from "https://deno.land/x/cors/mod.ts";
 const app = opine();
 app.use(opineCors())
 app.use(json());
-app.use(serveStatic("public", { dotfiles: 'allow' }))
+// app.use(serveStatic("public", { dotfiles: 'allow' }))
 
 const port = Number(Deno.args[0])
 
@@ -33,15 +33,14 @@ app.post("/api/v1/addNewcomer", function (req, res) {
 
 });
 
-if (port !== 8443) {
-    app.listen(port, () => console.log(`server is listening on http://localhost:${port} 🚀`));
-} else {
-
-    const pathToCertFile = `/etc/letsencrypt/live/cultdao-ecosystem.eth.link/cert.pem`
-    const pathToKeyFile = `/etc/letsencrypt/live/cultdao-ecosystem.eth.link/privkey.pem`
-
+if (port === 8443) {
+    const pathToCertFile = `/etc/letsencrypt/live/sport-kamasutra.org/fullchain.pem`
+    const pathToKeyFile = `/etc/letsencrypt/live/sport-kamasutra.org/privkey.pem`
 
     app.listen({ port, certFile: pathToCertFile, keyFile: pathToKeyFile });
+
+} else {
+    app.listen(port, () => console.log(`server is listening on http://localhost:${port} 🚀`));    
 }
 
 
