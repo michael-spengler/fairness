@@ -4,7 +4,7 @@
     import Newcomer from "./Newcomer.svelte";
 
     // let backendBaseURL = "http://localhost:3001";
-    const backendBaseURL = "https://sport-kamasutra.org:9443";
+    const backendBaseURL = "https://sportkamasutra.org:9443"; // I need to reuse this because we can't generate certs for .limo domains yet -> thanks to https://sportkamasutra.com 
 
     let newcomers = [];
     let walletAddress = "";
