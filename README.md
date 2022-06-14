@@ -8,7 +8,9 @@ This project leverages the [Distributed Ledger Technology](https://github.com/mi
 
 Motivation for this project comes from observing many ["Real Life Thrillers"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) revealing a lack of fairness in political and economic systems.
 
-Contributions (Issues, Pull Requests...) are welcome - feel free to get in touch. The cult is represented via many channels to avoid being censored - e.g. via [telegram](t.me/cultdaothemany), [discord](discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/)
+Contributions (Issues, Pull Requests...) are welcome - feel free to get [in touch](https://t.me/danceplanner).    
+
+You might want to stay up to date about the cult  via [telegram](t.me/cultdaothemany), [discord](https://discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/), ...  
 
 If you are a top 50 guardian, wanting to bring this project to the next level, feel free to contact [me](https://t.me/danceplanner) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
 
@@ -41,7 +43,7 @@ As long as fiat money (= political manipulation money) plays a role, it seems to
 It maybe a good idea to have further approaches like [gitcoin.co](https://gitcoin.co) in place and or to extend gitcoin's features in a way that it also serves as a general decentralized version of [fiverr](https://www.fiverr.com/). Gitcoin is imo great for web3 insiders. I wonder what is necessary to foster a peer 2 peer economy even further fostering "mainstream adoption"...
 
 ## General Open Source Rewards
-I would appreciate if also web2 public good creators could receive some rewards - e.g. for laying the foundation for successful the off-chain parts - thinking e.g. about the guys behind [deno.land](https://deno.land/) (Ryan, Lukas, ...). Maybe the [Contributor Assistant](https://github.com/contributor-assistant) could deliver inspirations... on how this could be further facilitated / integrated into those public goods projects.  
+I would appreciate if also web2 public good creators could receive some rewards - e.g. for laying the foundation for successful off-chain parts - thinking e.g. about the guys behind [deno.land](https://deno.land/) (Ryan, Lukas, ...). Maybe the [Contributor Assistant](https://github.com/contributor-assistant) could deliver inspirations... on how this could be further facilitated / integrated into those public goods projects.  
 
 ## Decentralized Governance
 The [Fairness DAO](https://github.com/distributed-ledger-technology/fairness/tree/main/dao) shall foster real = direct democracy and with that fair systems. It will contain rather day to day decision making features - e.g. comparing it to the [cultdao.io](https://cultdao.io) which is rather focused on relatively bold investment decisions.  
@@ -58,7 +60,14 @@ This mechanism incentivices active voters to vote in the interest of the majorit
 ## Decentralized Volatility Farming
 In order to exploit manipulation induced (non fundamentals based...) volatility, there shall be a smart contract which applies https://deno.land/x/bollinger_bands based swaps between pairs like ETH/CULT. This smart contract shall automatically accumulate ETH, which shall be automatically staked to further stabilize the (PoS) mainnet. This approach could also be applied on other chains of course. 
 
+
+[![Screenshot 2022-06-13 at 17 15 28](https://user-images.githubusercontent.com/43786652/173386659-e8a73aec-bd77-4a73-8e6e-9a1dcc0e480d.png)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
+
 ## Promotion Info Supporting CultDAO.io
-1. in [german language](https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/)  
-2. ... links to be added later ...
+// under construction
+1. ... to support a broad mainstream adoption of our cult, we should probably translate the manifesto ...
+2. also sharing some random posts in other languages [like here in german language](https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/) might be helpful  
+3. ... tbc ...  
+
+
 
