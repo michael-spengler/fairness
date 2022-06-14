@@ -33,7 +33,7 @@ app.post("/api/v1/addNewcomer", function (req, res) {
 
 });
 
-if (port === 8443) {
+if (port === 9443) {
     const pathToCertFile = `/etc/letsencrypt/live/sport-kamasutra.org/fullchain.pem`
     const pathToKeyFile = `/etc/letsencrypt/live/sport-kamasutra.org/privkey.pem`
 
