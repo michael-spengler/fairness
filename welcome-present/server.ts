@@ -1,9 +1,10 @@
-import { opine, json } from "https://deno.land/x/opine@2.2.0/mod.ts";
+import { opine, json, serveStatic } from "https://deno.land/x/opine@2.2.0/mod.ts";
 import { opineCors } from "https://deno.land/x/cors/mod.ts";
 
 const app = opine();
 app.use(opineCors())
 app.use(json());
+app.use(serveStatic("public"))
 
 const port = Number(Deno.args[0])
 
