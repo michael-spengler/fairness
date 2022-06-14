@@ -33,7 +33,7 @@ app.post("/api/v1/addNewcomer", function (req, res) {
 
 });
 
-if (port.toString().indexOf("443") === -1) {
+if (port !== 8443) {
     app.listen(port, () => console.log(`server is listening on http://localhost:${port} 🚀`));
 } else {
     
