@@ -31,6 +31,11 @@
     />
 </video>
 
+<!-- <audio controls autoplay>
+    <source src="./summary.mp3" type="audio/mpeg" />
+    Your browser does not support the audio element.
+</audio> -->
+
 <div class="content">
     <div
         on:click={() => {
@@ -112,11 +117,11 @@
 
     @media only screen and (max-height: 700px) {
         h1 {
-        font-size: 2.7em;
-        margin-top: 7vh;
-    }
-    h2 {
-        font-size: 1.8em;
-    }
+            font-size: 2.7em;
+            margin-top: 7vh;
+        }
+        h2 {
+            font-size: 1.8em;
+        }
     }
 </style>

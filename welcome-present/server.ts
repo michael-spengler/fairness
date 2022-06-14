@@ -32,9 +32,15 @@ app.post("/api/v1/addNewcomer", function (req, res) {
 
 });
 
-app.listen(
-    port,
-    () => console.log(`server is listening on http://localhost:${port} 🚀`),
-);
+if (port.toString().indexOf("443") === -1) {
+    app.listen(port, () => console.log(`server is listening on http://localhost:${port} 🚀`));
+} else {
+    
+    const pathToCertFile = `/etc/letsencrypt/live/cultdao-ecosystem.eth.link/cert.pem`
+    const pathToKeyFile = `/etc/letsencrypt/live/cultdao-ecosystem.eth.link/privkey.pem`
+
+
+    app.listen({port, certFile: pathToCertFile, keyFile: pathToKeyFile});
+}
 
 

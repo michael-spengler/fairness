@@ -18,7 +18,7 @@
 </script>
 
 <p><br /></p>
-You might send some of our newcomers some CULT if they talk about the cultdao publicly
+You might send some CULT to some of our newcomers, if they talk about the cultdao publicly
 on facebook, so that they collect some experiences and so that
 <a href="https://github.com/michael-spengler/fairness" target="_blank">we</a>
 further improve the distributedness of our cult :)
