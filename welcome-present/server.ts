@@ -1,4 +1,4 @@
-import { opine, json, serveStatic } from "https://deno.land/x/opine@2.2.0/mod.ts";
+import { opine, json } from "https://deno.land/x/opine@2.2.0/mod.ts";
 import { opineCors } from "https://deno.land/x/cors/mod.ts";
 
 const app = opine();
@@ -34,10 +34,11 @@ app.post("/api/v1/addNewcomer", function (req, res) {
 });
 
 if (port === 9443) {
+    
     const pathToCertFile = `/etc/letsencrypt/live/sport-kamasutra.org/fullchain.pem`
     const pathToKeyFile = `/etc/letsencrypt/live/sport-kamasutra.org/privkey.pem`
 
-    app.listen({ port, certFile: pathToCertFile, keyFile: pathToKeyFile });
+    app.listen({ port, certFile: pathToCertFile, keyFile: pathToKeyFile }, () => console.log(`server is listening on https://localhost:${port} 🚀`));
 
 } else {
     app.listen(port, () => console.log(`server is listening on http://localhost:${port} 🚀`));    
