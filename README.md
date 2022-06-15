@@ -69,5 +69,6 @@ In order to exploit manipulation induced (non fundamentals based...) volatility,
 2. also sharing some random posts in other languages [like here in german language](https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/) might be helpful  
 3. ... tbc ...  
 
-
+## Spread Love & Fairness
+... for example by sharing the [cultkamasutra.eth](https://cultkamasutra.eth.limo)
 
