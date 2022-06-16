@@ -1,6 +1,6 @@
 # NFT Platform Which Only Accepts CULT for Payments
 
-... under construction ... the WIP can be found here https://michael-spengler.github.io/fairness/ until ready for ens.domains & ipfs.io based deployment.
+... under construction ... the WIP / prototype can be found here https://michael-spengler.github.io/fairness/ until ready for ens.domains & ipfs.io based deployment.
 
 ## For Users
 Welcome to our NFT platform on which you can buy and sell NFTs using CULT. ... tbc ...
