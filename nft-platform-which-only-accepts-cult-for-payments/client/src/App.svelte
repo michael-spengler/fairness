@@ -12,7 +12,7 @@
 
 	<div class=content>
 
-		<h1>The NFT CULT</h1>
+		<h1>THE NFT CULT</h1>
 		<h2>Here you can buy and sell NFTs using <a href="https://coinmarketcap.com/currencies/cult-dao/" target="_blank">CULT</a></h2>
 	</div>
 
