@@ -61,7 +61,8 @@ The received Fairness Coins can either be sold or used as governance token in th
 
 // Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
 
-## Cult Based NFT Platform
+## NFT Platform Which Only Accepts CULT for Payments 
+You might check the [Prototype](https://github.com/michael-spengler/fairness/tree/main/nft-platform-which-only-accepts-cult-for-payments).  
 Having an NFT platform which requires their users to buy and sell via [cult](https://coinmarketcap.com/currencies/cult-dao) might be great.
 
 ## General Open Source Rewards
