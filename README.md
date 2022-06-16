@@ -32,7 +32,8 @@ The received Fairness Coins can either be sold or used as governance token in th
 // Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
 
 ## Free Speech
-Media shall inform and educate in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream chatplatform which has a fully decentralized backend and frontend (via ens.domains) including a fully decentralized content moderation and user authentication.
+Media shall inform and educate in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream video- & chatplatform which has a decentralized backend and frontend (the latter via ens.domains) including a fully decentralized content moderation and decentralized, permissionless user authentication. 
+Spam shall be avoided by punishing spamming wallets financially. This can be done by requesting to stake CULT before someone behind a wallet can post anything --> if the decentralized content moderation comes to the conclusion that someone (behind a wallet) tried to spam the community his stakes shall be given to someone who is respectful and perhaps even helpful for the community.
 
 // Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
 
@@ -63,11 +64,11 @@ In order to exploit manipulation induced (non fundamentals based...) volatility,
 
 [![Screenshot 2022-06-13 at 17 15 28](https://user-images.githubusercontent.com/43786652/173386659-e8a73aec-bd77-4a73-8e6e-9a1dcc0e480d.png)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
 
+## Cult Based NFT Platform
+Having an NFT platform which requires their users to buy and sell via [cult](https://coinmarketcap.com/currencies/cult-dao) might be great.
+
 ## Promotion Info Supporting CultDAO.io
-// under construction
-1. ... to support a broad mainstream adoption of our cult, we should probably translate the manifesto ...
-2. also sharing some random posts in other languages [like here in german language](https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/) might be helpful  
-3. ... tbc ...  
+It might be great to have some native speakers (e.g. of top 10 most used languages) translating the manifesto etc. 
 
 ## Spread Love & Fairness
 ... for example by sharing the [cultkamasutra.eth](https://cultkamasutra.eth.limo)
