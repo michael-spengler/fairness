@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "rm -rf ../docs-nft-cult && rollup -c && cp -r ./public ../docs-nft-cult",
+    "build": "rm -rf ../docs && rollup -c && cp -r ./public ../docs",
     "dev": "rollup -c -w",
     "start": "sirv public --no-clear",
     "check": "svelte-check --tsconfig ./tsconfig.json"

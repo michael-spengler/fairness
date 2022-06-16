@@ -1,5 +1,5 @@
 <script lang="ts">
-	export let name: string;
+	
 </script>
 
 <main>
@@ -9,7 +9,7 @@
 			type="video/mp4"
 		/>
 	</video>
-	
+
 	<div class=content>
 
 		<h1>The NFT CULT</h1>
