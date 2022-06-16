@@ -3,7 +3,7 @@
 ... under construction ... the WIP / prototype can be found here https://michael-spengler.github.io/fairness/ until ready for ens.domains & ipfs.io based deployment.
 
 ## For Users
-Welcome to our NFT platform on which you can buy and sell NFTs using CULT. ... tbc ...
+Welcome to [THE NFT CULT](https://michael-spengler.github.io/fairness) - a platform on which you can buy and sell NFTs using CULT. ... tbc ...
 
 ## For Developers
 Contributions are welcome. To simplify contributions I describe how this project was created.  
