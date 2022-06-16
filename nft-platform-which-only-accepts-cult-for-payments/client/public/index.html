@@ -11,6 +11,12 @@
 	<link rel='stylesheet' href='./build/bundle.css'>
 
 	<script defer src='./build/bundle.js'></script>
+	<script>
+		var xhr = new XMLHttpRequest();
+		xhr.open("GET", uriOfCachedPage, true);
+		xhr.setRequestHeader("Cache-Control", "max-age=0"); // I have 0 tolerance for: sharing outdated data while pretending it is up to date
+		xhr.send();
+	</script>
 </head>
 
 <body>
