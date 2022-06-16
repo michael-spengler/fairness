@@ -1,7 +1,9 @@
 <script>
     import { ethers } from "ethers";
+
     export let account = "";
-    export let provider = "";
+    export let provider;
+    
     async function connectToBrowserWallet() {
         if (typeof window.ethereum === "undefined") {
             alert("You need to install a browserwallet like metamask.io.");

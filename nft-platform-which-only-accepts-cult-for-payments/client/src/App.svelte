@@ -1,7 +1,10 @@
 <script lang="ts">
-    import Connect from "./Connect.svelte";
-
     export let pwaName;
+
+    import Connect from "./Connect.svelte";
+    import BuyNFTs from "./BuyNFTs.svelte";
+    import SellNFTs from "./SellNFTs.svelte";
+
     let mode = 0;
     let account = "";
     let provider;
@@ -24,17 +27,24 @@
     </video>
 
     <div class="content">
-        <h1>{pwaName}</h1>
-        <h2>
-            Here you can buy and sell NFTs using <a
-                href="https://coinmarketcap.com/currencies/cult-dao/"
-                target="_blank">CULT</a
-            >
-        </h2>
+        <div
+            on:click={() => {
+                location.reload();
+            }}
+        >
+            <h1>{pwaName}</h1>
+            <h2>
+                Here you can buy and sell NFTs using <a
+                    href="https://coinmarketcap.com/currencies/cult-dao/"
+                    target="_blank">CULT</a
+                >
+            </h2>
+        </div>
 
         <p><br /></p>
 
         <Connect bind:account bind:provider />
+
         {#if account !== ""}
             {#if mode === 0}
                 <button on:click={() => wantToBuyNFTs()}>Buy NFTs</button>
@@ -42,18 +52,11 @@
             {/if}
 
             {#if mode === 1}
-                <h3>
-                    NFT Gallery
-                    ... under construction ...
-                </h3> 
-                {/if}
-                
-                {#if mode === 2}
-                <h3>
-                    Offer Your NFTs
-                    ... under construction ...
-                </h3> 
+                <BuyNFTs bind:account bind:provider />
+            {/if}
 
+            {#if mode === 2}
+                <SellNFTs bind:account bind:provider />
             {/if}
         {/if}
     </div>
@@ -94,12 +97,6 @@
         color: turquoise;
         text-transform: uppercase;
         font-size: 3em;
-        font-weight: 100;
-    }
-    h3 {
-        color: turquoise;
-        text-transform: uppercase;
-        font-size: 2em;
         font-weight: 100;
     }
 
