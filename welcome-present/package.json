@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "rm -rf ../docs && rollup -c && cp -r ./public ../docs",
+    "build": "rm -rf ../docs-welcome-present && rollup -c && cp -r ./public ../docs-welcome-present",
     "dev": "rollup -c -w",
     "start": "sirv public --no-clear",
     "check": "svelte-check --tsconfig ./tsconfig.json"
