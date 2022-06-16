@@ -25,6 +25,7 @@
     "@tsconfig/svelte": "^2.0.0"
   },
   "dependencies": {
+    "ethers": "^5.6.8",
     "sirv-cli": "^2.0.0"
   }
 }
