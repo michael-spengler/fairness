@@ -48,7 +48,7 @@ Regarding the Tokenomics of the Fairness Coin in the context of the Fairness DAO
 The specific voter can earn a reward if his chosen answer option turns out to be the majority's opinion. 
 The specific voter looses his "betted" FC if his chosen answer option turns out not to be the majority's opinion. 
 
-This mechanism incentivices active voters to vote in the interest of the majority of the community.
+This mechanism shall incentivize active voters to vote in the interest of the majority of the community.
 
 // Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
 
