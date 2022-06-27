@@ -9,11 +9,18 @@ app.use(json());
 const port = Number(Deno.args[0])
 
 const pathToNewcomers = `${Deno.cwd()}/newcomers.json`
+const pathToNewHolders = `${Deno.cwd()}/new-holders.json`
 
 // http://localhost:3001/api/v1/getNewcomers // http://65.21.110.40:3002/api/v1/getNewcomers
 app.get("/api/v1/getNewcomers", function (req, res) {
     const newcomers = JSON.parse(Deno.readTextFileSync(pathToNewcomers))
     res.send(newcomers);
+});
+
+// http://localhost:3001/api/v1/getNewHolders // http://65.21.110.40:3002/api/v1/getNewHolders
+app.get("/api/v1/getNewHolders", function (req, res) {
+    const newHolders = JSON.parse(Deno.readTextFileSync(pathToNewHolders))
+    res.send(newHolders);
 });
 
 app.post("/api/v1/addNewcomer", function (req, res) {

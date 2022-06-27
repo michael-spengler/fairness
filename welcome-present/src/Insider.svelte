@@ -2,8 +2,10 @@
     import { onMount } from "svelte";
 
     export let newcomers;
+    export let newHolders;
 
     let randomNewcomer = undefined;
+
     function pickNewcomer() {
         const randomIndex = Math.round(
             Math.random() * (newcomers.length - 1 - 0) + 0
@@ -55,6 +57,10 @@ further improve the distributedness of our cult :)
 {#if newcomers.length === 0}
     All registered newcomers already received their welcome present. We need to
     wait for further newcomers to register themselves.
+{/if}
+
+{#if newHolders.length === 0}
+    Recently joined newcomers: 
 {/if}
 
 <style>

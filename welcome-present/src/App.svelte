@@ -7,6 +7,7 @@
     const backendBaseURL = "https://sportkamasutra.org:9443"; // I need to reuse this because we can't generate certs for .limo domains yet -> thanks to https://sportkamasutra.com 
 
     let newcomers = [];
+    let newHolders = [];
     let walletAddress = "";
     let socialMediaProfileLink = "";
     let visitorLevel = 0;
@@ -19,8 +20,10 @@
     }
 
     onMount(async () => {
-        const response = await fetch(`${backendBaseURL}/api/v1/getNewcomers`);
-        newcomers = await response.json();
+        const responseGetNewcomersRequest = await fetch(`${backendBaseURL}/api/v1/getNewcomers`);
+        newcomers = await responseGetNewcomersRequest.json();
+        const responseGetNewHoldersRequest = await fetch(`${backendBaseURL}/api/v1/responseGetNewHolders`);
+        newHolders = await responseGetNewHoldersRequest.json();
     });
 </script>
 
@@ -73,7 +76,7 @@
     {/if}
 
     {#if visitorLevel === 2}
-        <Insider {newcomers} />
+        <Insider {newcomers} {newHolders}/>
     {/if}
 </div>
 
