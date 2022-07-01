@@ -14,6 +14,14 @@ You might want to stay up to date about the cult  via [telegram](t.me/cultdaothe
 
 If you are a top 50 guardian, wanting to bring this project to the next level, feel free to contact [me](https://t.me/danceplanner) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
 
+## Supporting the RVLT Token
+RVLT is the cultDAO's first ecosystem token. Check this [intro](https://youtu.be/PXlGZFZCPdI?t=47). 
+There shall be a list of ideas for acts of RVLT - e.g. organized via reddit for simple up- and downvotes based feedback loops.
+
+## Pulsechain
+Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
+It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so.
+
 ## Welcome Present 
 Newcomers to this project might claim their [Welcome Present](https://cultdao-ecosystem.eth.limo).   
 Facebook seems to be the platform with the lowest fake-/real account ratio - this is why [this page](https://cultdao-ecosystem.eth.limo) leverages facebook. If someone has [cooler approaches](https://www.youtube.com/watch?v=TbyVyVNsyys) ready yet, feel free to raise a PR.  
@@ -98,8 +106,3 @@ Some of the key questions which also shall be answered by the proposal (read thi
 - what work will be required in the short term? long term?  
 
 
-## Supporting the RVLT Token
-RVLT is the cultDAO's first ecosystem token. Check this [intro](https://youtu.be/PXlGZFZCPdI?t=47). 
-
-## Pulsechain
-Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
