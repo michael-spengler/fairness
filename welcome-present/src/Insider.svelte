@@ -44,9 +44,12 @@ further improve the distributedness of our cult :)
     
     {#if randomNewcomer !== undefined}
         <p />
-        <a href="https://etherscan.io/address/{randomNewcomer.walletAddress}">
+        <a href="https://etherscan.io/address/{randomNewcomer.walletAddress}#tokentxns">
             {randomNewcomer.walletAddress}
         </a>
+        <!-- <a href="https://etherscan.io/address/{randomNewcomer.walletAddress}">
+            {randomNewcomer.walletAddress}
+        </a> -->
         <p />
         <a href={randomNewcomer.socialMediaProfileLink} target="_blank"
             >{randomNewcomer.socialMediaProfileLink}</a
@@ -59,6 +62,7 @@ further improve the distributedness of our cult :)
     wait for further newcomers to register themselves.
 {/if}
 
+<br>
 {#if newHolders.length === 0}
     Recently joined newcomers: 
 {/if}
