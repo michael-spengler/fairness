@@ -22,6 +22,7 @@
     onMount(async () => {
         const responseGetNewcomersRequest = await fetch(`${backendBaseURL}/api/v1/getNewcomers`);
         newcomers = await responseGetNewcomersRequest.json();
+        // https://sportkamasutra.org:9443/api/v1/getNewHolders
         const responseGetNewHoldersRequest = await fetch(`${backendBaseURL}/api/v1/getNewHolders`);
         newHolders = await responseGetNewHoldersRequest.json();
     });
@@ -93,7 +94,7 @@
     }
 
     .content {
-        position: fixed;
+        position: absolute;
         bottom: 0;
         left: 0;
         background: rgba(0, 0, 0, 0.5);

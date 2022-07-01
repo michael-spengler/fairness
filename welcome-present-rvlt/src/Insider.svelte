@@ -63,8 +63,20 @@ further improve the distributedness of our cult :)
 {/if}
 
 <br>
-{#if newHolders.length === 0}
-    Recently joined newcomers: 
+{#if newHolders.length > 0}
+    Recent welcome presents went to: <p />
+
+    {#each newHolders as newHolder}
+        <a
+            href="https://polygonscan.com/token/0xf0f9d895aca5c8678f706fb8216fa22957685a13?a={newHolder.walletAddress}"
+        >
+            {newHolder.walletAddress}
+        </a>
+        <br>
+        <a href={newHolder.socialMediaProfileLink} target="_blank"
+            >{newHolder.socialMediaProfileLink}</a
+        >
+    {/each}
 {/if}
 
 <style>

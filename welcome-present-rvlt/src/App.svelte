@@ -93,7 +93,7 @@
     }
 
     .content {
-        position: fixed;
+        position: absolute;
         bottom: 0;
         left: 0;
         background: rgba(0, 0, 0, 0.5);
