@@ -20,9 +20,9 @@
     }
 
     onMount(async () => {
-        const responseGetNewcomersRequest = await fetch(`${backendBaseURL}/api/v1/getNewcomers`);
+        const responseGetNewcomersRequest = await fetch(`${backendBaseURL}/api/v1/getRVLTNewcomers`);
         newcomers = await responseGetNewcomersRequest.json();
-        const responseGetNewHoldersRequest = await fetch(`${backendBaseURL}/api/v1/getNewHolders`);
+        const responseGetNewHoldersRequest = await fetch(`${backendBaseURL}/api/v1/getNewRVLTHolders`);
         newHolders = await responseGetNewHoldersRequest.json();
     });
 </script>
@@ -45,7 +45,7 @@
             location.reload(true);
         }}
     >
-        <h1>CultDAO Ecosystem</h1>
+        <h1>RVLT Ecosystem</h1>
         <h2>Welcome Present</h2>
     </div>
 
@@ -62,7 +62,7 @@
             want to give newcomers the chance to get familiar with
             <a href="https://metamask.io" target="_blank">metamask.io</a> and
             are ready to donate some
-            <a href="https://cultdao.io" target="_blank">cultdao.io</a> tokens to
+            <a href="https://coinmarketcap.com/currencies/revolt-2-earn" target="_blank">RVLT</a> tokens to
             those newcomers.
         </p>
         <p><br /></p>

@@ -1,7 +1,7 @@
 # CultDAO Welcome Present
 
 ## For Users
-Newcomers to this project might claim their [Welcome Present](https://cultdao-ecosystem.eth.limo). 
+Newcomers to this project might claim their [Welcome Present](https://rvlt-ecosystem.eth.limo). 
 
 ## For Developers
 Contributions are welcome. To simplify contributions I describe how this project was created.  
@@ -11,8 +11,8 @@ The UI is created using [svelte](https://svelte.dev/docs).
 
 ```sh
 
-npx degit sveltejs/template welcome-present
-cd welcome-present
+npx degit sveltejs/template welcome-present-rvlt
+cd welcome-present-rvlt
 node scripts/setupTypeScript.js # ... to use TypeScript
 npm i 
 

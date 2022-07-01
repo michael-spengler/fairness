@@ -10,6 +10,8 @@ const port = Number(Deno.args[0])
 
 const pathToNewcomers = `${Deno.cwd()}/newcomers.json`
 const pathToNewHolders = `${Deno.cwd()}/new-holders.json`
+const pathToRVLTNewcomers = `${Deno.cwd()}/rvlt-newcomers.json`
+const pathToNewRVLTHolders = `${Deno.cwd()}/new-rvlt-holders.json`
 
 // http://localhost:3001/api/v1/getNewcomers // http://65.21.110.40:3002/api/v1/getNewcomers
 app.get("/api/v1/getNewcomers", function (req, res) {
@@ -20,6 +22,18 @@ app.get("/api/v1/getNewcomers", function (req, res) {
 // http://localhost:3001/api/v1/getNewHolders // http://65.21.110.40:3002/api/v1/getNewHolders
 app.get("/api/v1/getNewHolders", function (req, res) {
     const newHolders = JSON.parse(Deno.readTextFileSync(pathToNewHolders))
+    res.send(newHolders);
+});
+
+// http://localhost:3001/api/v1/getNewcomers // http://65.21.110.40:3002/api/v1/getNewcomers
+app.get("/api/v1/getRVLTNewcomers", function (req, res) {
+    const newcomers = JSON.parse(Deno.readTextFileSync(pathToRVLTNewcomers))
+    res.send(newcomers);
+});
+
+// http://localhost:3001/api/v1/getNewHolders // http://65.21.110.40:3002/api/v1/getNewHolders
+app.get("/api/v1/getNewRVLTHolders", function (req, res) {
+    const newHolders = JSON.parse(Deno.readTextFileSync(pathToNewRVLTHolders))
     res.send(newHolders);
 });
 
