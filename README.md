@@ -2,17 +2,25 @@
 
 Welcome to a project named Fairness. Nomen est Omen.
 
-This project supports the [cultdao.io](https://cultdao.io) and is meant to prototype "ecosystem features" for [the cult](https://www.youtube.com/watch?v=6IoAp1f3tVk) :) 
+This project supports the [cultdao.io](https://cultdao.io) and is meant to prototype "ecosystem features" for [the cult](https://www.youtube.com/watch?v=6IoAp1f3tVk) and for the [RVLT](https://revolt.cultdao.io/) :) 
 
 This project leverages the [Distributed Ledger Technology](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture) to build  incentive systems which foster fairness. 
 
 Motivation for this project comes from observing many ["Real Life Thrillers"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) revealing a lack of fairness in political and economic systems.
 
-Contributions (Issues, Pull Requests...) are welcome - feel free to get [in touch](https://t.me/danceplanner).    
+If you are a top 50 guardian, wanting to bring this project to the next level, feel free to contact [me](https://t.me/danceplanner) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
+
+Contributions (Issues, Pull Requests...) are welcome. If you are a CultDAO family member ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://t.me/danceplanner).
 
 You might want to stay up to date about the cult  via [telegram](t.me/cultdaothemany), [discord](https://discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/), ...  
 
-If you are a top 50 guardian, wanting to bring this project to the next level, feel free to contact [me](https://t.me/danceplanner) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
+## Supporting the RVLT Token
+RVLT is the cultDAO's first ecosystem token. Check this [intro](https://youtu.be/PXlGZFZCPdI?t=47). 
+There shall be a list of ideas for acts of RVLT - e.g. organized via reddit for simple up- and downvotes based feedback loops.
+
+## Leverage Inspiration from Pulsechain's Pulsepot
+Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
+It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so.
 
 ## Welcome Present 
 Newcomers to this project might claim their [Welcome Present](https://cultdao-ecosystem.eth.limo).   
@@ -96,4 +104,5 @@ Some of the key questions which also shall be answered by the proposal (read thi
 - what will happen with the 13eth? where will it go? what will we get? etc.  
 - why is this a good project for CultDAO?  
 - what work will be required in the short term? long term?  
+
 
