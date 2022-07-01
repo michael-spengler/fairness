@@ -2,7 +2,7 @@
 
 Welcome to a project named Fairness. Nomen est Omen.
 
-This project supports the [cultdao.io](https://cultdao.io) and is meant to prototype "ecosystem features" for [the cult](https://www.youtube.com/watch?v=6IoAp1f3tVk) :) 
+This project supports the [cultdao.io](https://cultdao.io) and is meant to prototype "ecosystem features" for [the cult](https://www.youtube.com/watch?v=6IoAp1f3tVk) and for the [RVLT](https://revolt.cultdao.io/) :) 
 
 This project leverages the [Distributed Ledger Technology](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture) to build  incentive systems which foster fairness. 
 
@@ -13,6 +13,8 @@ Contributions (Issues, Pull Requests...) are welcome - feel free to get [in touc
 You might want to stay up to date about the cult  via [telegram](t.me/cultdaothemany), [discord](https://discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/), ...  
 
 If you are a top 50 guardian, wanting to bring this project to the next level, feel free to contact [me](https://t.me/danceplanner) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
+
+If you are a CultDAO family member ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://t.me/danceplanner).
 
 ## Supporting the RVLT Token
 RVLT is the cultDAO's first ecosystem token. Check this [intro](https://youtu.be/PXlGZFZCPdI?t=47). 
