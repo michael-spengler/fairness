@@ -18,7 +18,7 @@ If you are a top 50 guardian, wanting to bring this project to the next level, f
 RVLT is the cultDAO's first ecosystem token. Check this [intro](https://youtu.be/PXlGZFZCPdI?t=47). 
 There shall be a list of ideas for acts of RVLT - e.g. organized via reddit for simple up- and downvotes based feedback loops.
 
-## Pulsechain
+## Leverage Inspiration from Pulsechain's Pulsepot
 Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
 It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so.
 
