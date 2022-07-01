@@ -74,7 +74,7 @@ further improve the distributedness of our cult :)
         <br />
 
         (<a
-            href="https://etherscan.io/address/{newHolder.walletAddress}#tokentxns"
+            href="https://polygonscan.com/token/0xf0f9d895aca5c8678f706fb8216fa22957685a13?a={newHolder.walletAddress}"
         >
             {newHolder.walletAddress}
         </a>)
