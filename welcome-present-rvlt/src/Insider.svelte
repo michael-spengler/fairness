@@ -67,15 +67,17 @@ further improve the distributedness of our cult :)
     Recent welcome presents went to: <p />
 
     {#each newHolders as newHolder}
-        <a
-            href="https://polygonscan.com/token/0xf0f9d895aca5c8678f706fb8216fa22957685a13?a={newHolder.walletAddress}"
-        >
-            {newHolder.walletAddress}
-        </a>
-        <br>
+        <br />
         <a href={newHolder.socialMediaProfileLink} target="_blank"
             >{newHolder.socialMediaProfileLink}</a
         >
+        <br />
+
+        (<a
+            href="https://etherscan.io/address/{newHolder.walletAddress}#tokentxns"
+        >
+            {newHolder.walletAddress}
+        </a>)
     {/each}
 {/if}
 

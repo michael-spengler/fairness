@@ -1,6 +1,6 @@
 <script>
     import { onMount } from "svelte";
-    
+
     export let newcomers;
     export let newHolders;
 
@@ -68,15 +68,17 @@ further improve the distributedness of our cult :)
     Recent welcome presents went to: <p />
 
     {#each newHolders as newHolder}
-        <a
-            href="https://etherscan.io/address/{newHolder.walletAddress}#tokentxns"
-        >
-            {newHolder.walletAddress}
-        </a>
-        <br>
+        <br />
         <a href={newHolder.socialMediaProfileLink} target="_blank"
             >{newHolder.socialMediaProfileLink}</a
         >
+        <br />
+
+        (<a
+            href="https://etherscan.io/address/{newHolder.walletAddress}#tokentxns"
+        >
+            {newHolder.walletAddress}
+        </a>)
     {/each}
 {/if}
 
