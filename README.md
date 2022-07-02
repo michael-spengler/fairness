@@ -17,7 +17,7 @@ If you are a guardian, wanting to bring this project to the next level, feel fre
 
 ## Supporting the Distributedness of our Movement
 ### Welcome Present CULT & RVLT
-In order to give people the chance to have a good starting position when it comes to [CULT](https://coinmarketcap.com/currencies/cult-dao) & [RVLT](https://coinmarketcap.com/currencies/revolt-2-earn) and in order to increase the distributedness of our movement, we have provided a [welcome present feature for CULT](https://cultdao-ecosystem.eth.limo/) and a [welcome present feature for RVLT](https://rvlt-ecosystem.eth.limo/).  
+In order to give people the chance to have a good starting position when it comes to [CULT](https://coinmarketcap.com/currencies/cult-dao) & [RVLT](https://coinmarketcap.com/currencies/revolt-2-earn) (temporarily not available) and in order to increase the distributedness of our movement, we have provided a [welcome present feature for CULT](https://cultdao-ecosystem.eth.limo/) and a [welcome present feature for RVLT](https://rvlt-ecosystem.eth.limo/).  
 Facebook seems to be the platform with the lowest fake-/real account ratio - this is why those pages leverage facebook. If someone has [cooler approaches](https://www.youtube.com/watch?v=TbyVyVNsyys) ready yet, feel free to raise a PR.  
 
 [![1500x500](https://user-images.githubusercontent.com/43786652/173186666-59020ce5-d29e-457a-94ee-a389471ac2de.jpeg)](https://cultdao-ecosystem.eth.limo)
@@ -26,6 +26,10 @@ If those welcome present features turn out to be successful in terms of improvin
 
 ### Acts of RVLT Ideas & Feedback
 We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment.
+
+## Rogue Ideas to Fill the Treasury & Boost the Price
+tbd 
+
 
 ## Leverage Inspiration from Pulsechain's Pulsepot
 Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
