@@ -29,7 +29,7 @@ I made the experience that students love to explore mechanisms by exploring thin
 
 1. When it comes to buybacks & burns: provide a smart contract which optimizes and automates: https://twitter.com/MrOmodulus/status/1543161520770764800?s=20&t=mlnnqS24nIuTiRis8VW90Q
 2. Publicly and intentionally increase volatility as a community - attracting traders - ... this would remind me of WSB --> mainstreetbets ... - filling the treasury as a community effort ... one main follow up question would of course be how to increase volatility as a community (sentiment waves, ... etc.) ... everyone would want to be in the public in-crowd of course - it would exploit "outside" traders - this would be imo just the other way round than centralized finance insiders tricked retail traders "in the past" ... --> may the force be with the many --> We The Many = The Public In-Crowd would move the price right from the beginning not centralized manipulators with deep pockets. 
-3. 
+3. waiting for your pull requests
 4. waiting for your pull requests
 5. ...  
 
