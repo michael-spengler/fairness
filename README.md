@@ -32,7 +32,7 @@ We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/
 
 ## Leverage Inspiration from Pulsechain's Pulsepot
 Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
-It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so.
+It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so. We might ask Jacob if he is interested in teaming up.
 
 ## Free Speech
 Media shall inform, educate and explore in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream video- & chatplatform which has a decentralized backend and frontend (the latter via ens.domains) including a fully decentralized content moderation and decentralized, permissionless user authentication. 
