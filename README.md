@@ -27,9 +27,11 @@ If those welcome present features turn out to be successful in terms of improvin
 ## Rogue Ideas to Fill the Treasury & Boost the Price
 I made the experience that students love to explore mechanisms by exploring things like [Real Life Thrillers](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md). In this respect I would find it great, if we could collect rogue ideas to fill the treasury & boost the price. Exploring and establishing those mechanisms further will be highly educational for people and beneficial for the cult imo. ... It's like the many turning the tide :) I love that.
 
-1. waiting for your pull request
-2. waiting for your pull request
-3. ... 
+1. When it comes to buybacks & burns: provide a smart contract which optimizes and automates: https://twitter.com/MrOmodulus/status/1543161520770764800?s=20&t=mlnnqS24nIuTiRis8VW90Q
+2. Publicly and intentionally increase volatility as a community - attracting traders - ... this would remind me of WSB --> mainstreetbets ... - filling the treasury as a community effort ... one main follow up question would of course be how to increase volatility as a community (sentiment waves, ... etc.) ... everyone would want to be in the public in-crowd of course - it would exploit "outside" traders - this would be imo just the other way round than centralized finance insiders tricked retail traders "in the past" ... --> may the force be with the many --> We The Many = The Public In-Crowd would move the price right from the beginning not centralized manipulators with deep pockets. 
+3. 
+4. waiting for your pull requests
+5. ...  
 
 ### Acts of RVLT Ideas & Feedback
 We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment.
