@@ -27,7 +27,7 @@ If those welcome present features turn out to be successful in terms of improvin
 ## Rogue Ideas to Fill the Treasury & Boost the Price
 I made the experience that students love to explore mechanisms by exploring things like [Real Life Thrillers](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md). In this respect I would find it great, if we could collect rogue ideas to fill the treasury & boost the price. Exploring and establishing those mechanisms further will be highly educational for people and beneficial for the cult imo. ... It's like the many turning the tide :) I love that.
 
-1. waiting for your pull request
+1. Provide a smart contract which optimizes and automates: https://twitter.com/MrOmodulus/status/1543161520770764800?s=20&t=mlnnqS24nIuTiRis8VW90Q
 2. waiting for your pull request
 3. ... 
 
