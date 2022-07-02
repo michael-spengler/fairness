@@ -62,7 +62,7 @@ further improve the distributedness of our cult :)
     wait for further newcomers to register themselves.
 {/if}
 
-<br>
+<p></p>
 {#if newHolders.length > 0}
     Recent welcome presents went to: <p />
 
