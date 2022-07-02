@@ -84,8 +84,7 @@ It might be great to have some native speakers (e.g. of top 10 most used languag
 ... for example by sharing the [cultkamasutra.eth](https://cultkamasutra.eth.limo) / [repo](https://github.com/michael-spengler/cultkamasutra)  
 
 ## CULT.DAO Proposals
-We consider to [submit a combined proposal](https://app.cultdao.io/submitProposal) to ask the [cultdao](https://cultdao.io) voters if they like our ideas for further features, which are also listed [here](https://github.com/michael-spengler/fairness/blob/main/README.md) and which would need to be detailed out.    
-We also consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
+We consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
 1. Name of the Guardian submitting the Proposal   
 2. Guardian Discord or Twitter Handle   
 3. Guardian Wallet Address   
