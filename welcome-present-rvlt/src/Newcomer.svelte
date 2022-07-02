@@ -37,7 +37,7 @@
                 );
             } else {
                 const response = await fetch(
-                    `${backendBaseURL}/api/v1/addNewcomer`,
+                    `${backendBaseURL}/api/v1/addRVLTNewcomer`,
                     {
                         method: "post",
                         headers: {

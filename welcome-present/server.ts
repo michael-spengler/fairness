@@ -54,6 +54,23 @@ app.post("/api/v1/addNewcomer", function (req, res) {
 
 });
 
+app.post("/api/v1/addRVLTNewcomer", function (req, res) {
+
+    const newcomers = JSON.parse(Deno.readTextFileSync(pathToRVLTNewcomers))
+
+    if (newcomers.filter((e: any) => e.walletAddress === req.body.walletAddress)[0] !== undefined) {
+        res.send({ status: "for this wallet address there is already an entry made." });
+    } else if (newcomers.filter((e: any) => e.socialMediaProfileLink === req.body.socialMediaProfileLink)[0] !== undefined) {
+        res.send({ status: "for this social media profile link there is already an entry made." });
+    } else {
+        newcomers.push(req.body)
+        Deno.writeTextFileSync(pathToRVLTNewcomers, JSON.stringify(newcomers))
+        console.log(req.body)
+        res.send({ status: "mission accomplished" });
+    }
+
+});
+
 if (port === 9443) {
     
     const pathToCertFile = `/etc/letsencrypt/live/sport-kamasutra.org/fullchain.pem`
