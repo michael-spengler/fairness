@@ -10,8 +10,8 @@ const port = Number(Deno.args[0])
 
 const pathToNewcomers = `${Deno.cwd()}/newcomers.json`
 const pathToNewHolders = `${Deno.cwd()}/new-holders.json`
-const pathToRVLTNewcomers = `${Deno.cwd()}/rvlt-newcomers.json`
-const pathToNewRVLTHolders = `${Deno.cwd()}/new-rvlt-holders.json`
+const pathToRVLTNewcomers = `${Deno.cwd()}/../welcome-present-rvlt/rvlt-newcomers.json`
+const pathToNewRVLTHolders = `${Deno.cwd()}/../welcome-present-rvlt/new-rvlt-holders.json`
 
 // http://localhost:3001/api/v1/getNewcomers // http://65.21.110.40:3002/api/v1/getNewcomers
 app.get("/api/v1/getNewcomers", function (req, res) {
