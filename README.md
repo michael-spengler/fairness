@@ -2,33 +2,41 @@
 
 Welcome to a project named Fairness. Nomen est Omen.
 
-This project supports the [cultdao.io](https://cultdao.io) and is meant to prototype "ecosystem features" for [the cult](https://www.youtube.com/watch?v=6IoAp1f3tVk) and for the [RVLT](https://revolt.cultdao.io/) :) 
+This project supports the [cultdao.io](https://cultdao.io) and is meant to prototype "ecosystem features" for [the cult](https://www.youtube.com/watch?v=6IoAp1f3tVk) and for the [RVLT](https://revolt.cultdao.io/). 
 
 This project leverages the [Distributed Ledger Technology](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture) to build  incentive systems which foster fairness. 
 
 Motivation for this project comes from observing many ["Real Life Thrillers"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) revealing a lack of fairness in political and economic systems.
 
-If you are a top 50 guardian, wanting to bring this project to the next level, feel free to contact [me](https://t.me/danceplanner) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
-
 Contributions (Issues, Pull Requests...) are welcome. If you are a CultDAO family member ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://t.me/danceplanner).
 
-You might want to stay up to date about the cult  via [telegram](t.me/cultdaothemany), [discord](https://discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/), ...  
+You might want to stay up to date about the cult via [telegram](t.me/cultdaothemany), [discord](https://discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/), ...  
 
-## Supporting the RVLT Token
-RVLT is the cultDAO's first ecosystem token. Check this [intro](https://youtu.be/PXlGZFZCPdI?t=47). 
-There shall be a list of ideas for acts of RVLT - e.g. organized via reddit for simple up- and downvotes based feedback loops.
+If you are a guardian, wanting to bring this project to the next level, feel free to contact [me](https://t.me/danceplanner) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
 
-## Leverage Inspiration from Pulsechain's Pulsepot
-Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
-It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so.
 
-## Welcome Present 
-Newcomers to this project might claim their [Welcome Present](https://cultdao-ecosystem.eth.limo).   
-Facebook seems to be the platform with the lowest fake-/real account ratio - this is why [this page](https://cultdao-ecosystem.eth.limo) leverages facebook. If someone has [cooler approaches](https://www.youtube.com/watch?v=TbyVyVNsyys) ready yet, feel free to raise a PR.  
+## Supporting the Distributedness of our Movement
+### Welcome Present CULT & RVLT
+In order to give people the chance to have a good starting position when it comes to [CULT](https://coinmarketcap.com/currencies/cult-dao) & [RVLT](https://coinmarketcap.com/currencies/revolt-2-earn) and in order to increase the distributedness of our movement, we have provided a [welcome present feature for CULT](https://cultdao-ecosystem.eth.limo/) and a [welcome present feature for RVLT](https://rvlt-ecosystem.eth.limo/).  
+Facebook seems to be the platform with the lowest fake-/real account ratio - this is why those pages leverage facebook. If someone has [cooler approaches](https://www.youtube.com/watch?v=TbyVyVNsyys) ready yet, feel free to raise a PR.  
 
 [![1500x500](https://user-images.githubusercontent.com/43786652/173186666-59020ce5-d29e-457a-94ee-a389471ac2de.jpeg)](https://cultdao-ecosystem.eth.limo)
 
-If this [Welcome Present Feature](https://cultdao-ecosystem.eth.limo) becomes successful in terms of improving the distributedness of our CULT and with that improving the potential for more - real - direct democracy & fairness, we might implement a decentralized / smart contract based backend for it. Especially when it comes to improving the transparency on which insider donated to which newcomer, this might be a great contribution for what RVLT is about to support. 
+If those welcome present features turn out to be successful in terms of improving the distributedness of our CULT and with that improving the potential for more - real - direct democracy & fairness, we might implement a decentralized / smart contract based backend for it.  
+
+## Rogue Ideas to Fill the Treasury & Boost the Price
+I made the experience that students love to explore mechanisms by exploring things like [Real Life Thrillers](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md). In this respect I would find it great, if we could collect rogue ideas to fill the treasury & boost the price. Exploring and establishing those mechanisms further will be highly educational for people and beneficial for the cult imo. ... It's like the many turning the tide :) I love that.
+
+1. waiting for your pull request
+2. waiting for your pull request
+3. ... 
+
+### Acts of RVLT Ideas & Feedback
+We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment.
+
+## Leverage Inspiration from Pulsechain's Pulsepot
+Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
+It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so. We might ask Jacob if he is interested in teaming up.
 
 ## Free Speech
 Media shall inform, educate and explore in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream video- & chatplatform which has a decentralized backend and frontend (the latter via ens.domains) including a fully decentralized content moderation and decentralized, permissionless user authentication. 
@@ -83,8 +91,7 @@ It might be great to have some native speakers (e.g. of top 10 most used languag
 ... for example by sharing the [cultkamasutra.eth](https://cultkamasutra.eth.limo) / [repo](https://github.com/michael-spengler/cultkamasutra)  
 
 ## CULT.DAO Proposals
-We consider to [submit a combined proposal](https://app.cultdao.io/submitProposal) to ask the [cultdao](https://cultdao.io) voters if they like our ideas for further features, which are also listed [here](https://github.com/michael-spengler/fairness/blob/main/README.md) and which would need to be detailed out.    
-We also consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
+We consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
 1. Name of the Guardian submitting the Proposal   
 2. Guardian Discord or Twitter Handle   
 3. Guardian Wallet Address   
