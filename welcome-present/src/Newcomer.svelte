@@ -77,7 +77,7 @@
 ... post the following statement publicly on your facebook profile
 <p />
 <div on:click={() => clickTextarea()}>
-    <textarea name="" id="" cols="30" rows="3" readonly bind:this={textarea}>I like the https://cultdao.io. I'm ready to receive some CULT as welcome present.</textarea>
+    <textarea name="" id="" cols="30" rows="3" readonly bind:this={textarea}>I like the cultdao manifesto fostering fairness, freedom and real democracy. I have installed https://metamask.io and I'm ready to receive CULT on the Ethereum Mainnet as welcome present.</textarea>
 </div>
 
 <p />
