@@ -25,7 +25,7 @@ Facebook seems to be the platform with the lowest fake-/real account ratio - thi
 If those welcome present features turn out to be successful in terms of improving the distributedness of our CULT and with that improving the potential for more - real - direct democracy & fairness, we might implement a decentralized / smart contract based backend for it.  
 
 ## Rogue Ideas to Fill the Treasury & Boost the Price
-I made the experience that students love to explore mechanisms by exploring things like [Real Life Thrillers](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md). In this respect I would find it great, if we could collect rogue ideas to fill the treasury & boost the price. Exploring and establishing those mechanisms further will be highly educational for people and beneficial for the cult imo. 
+I made the experience that students love to explore mechanisms by exploring things like [Real Life Thrillers](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md). In this respect I would find it great, if we could collect rogue ideas to fill the treasury & boost the price. Exploring and establishing those mechanisms further will be highly educational for people and beneficial for the cult imo. ... It's like the many turning the tide :) I love that.
 
 1. waiting for your pull request
 2. waiting for your pull request
