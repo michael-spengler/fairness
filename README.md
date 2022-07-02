@@ -25,7 +25,7 @@ Facebook seems to be the platform with the lowest fake-/real account ratio - thi
 If those welcome present features turn out to be successful in terms of improving the distributedness of our CULT and with that improving the potential for more - real - direct democracy & fairness, we might implement a decentralized / smart contract based backend for it.  
 
 ## Rogue Ideas to Fill the Treasury & Boost the Price
-tbd 
+I made the experience that students love to explore mechanisms by exploring things like [Real Life Thrillers](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md). In this respect I would find it great, if we could collect rogue ideas to fill the treasury & boost the price. Exploring and establishing those mechanisms further will be highly educational for people and beneficial for the cult imo.
 
 ### Acts of RVLT Ideas & Feedback
 We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment.
