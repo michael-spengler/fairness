@@ -24,12 +24,11 @@ Facebook seems to be the platform with the lowest fake-/real account ratio - thi
 
 If those welcome present features turn out to be successful in terms of improving the distributedness of our CULT and with that improving the potential for more - real - direct democracy & fairness, we might implement a decentralized / smart contract based backend for it.  
 
-### Acts of RVLT Ideas & Feedback
-We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment.
-
 ## Rogue Ideas to Fill the Treasury & Boost the Price
 tbd 
 
+### Acts of RVLT Ideas & Feedback
+We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment.
 
 ## Leverage Inspiration from Pulsechain's Pulsepot
 Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
