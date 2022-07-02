@@ -44,7 +44,7 @@ further improve the distributedness of our cult :)
     
     {#if randomNewcomer !== undefined}
         <p />
-        <a href="https://etherscan.io/address/{randomNewcomer.walletAddress}#tokentxns">
+        <a href="https://polygonscan.com/token/0xf0f9d895aca5c8678f706fb8216fa22957685a13?a={randomNewcomer.walletAddress}">
             {randomNewcomer.walletAddress}
         </a>
         <!-- <a href="https://etherscan.io/address/{randomNewcomer.walletAddress}">
