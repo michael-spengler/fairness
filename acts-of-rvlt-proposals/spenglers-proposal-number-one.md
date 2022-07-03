@@ -23,11 +23,11 @@ The main reason why I request a reward is that I want to have CULT & RVLT to sca
 Additionally I would be happy if I could completely quit my so-far mainstream job and work for the CULT in a more focused way than I do it so far.
 
 ## Links
-https://github.com/michael-spengler/fairness/blob/main/README.md  
-https://cultdao-ecosystem.eth.limo
-https://rvlt-ecosystem.eth.limo
-https://www.reddit.com/r/RVLTStreetBets
-https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection
+https://github.com/michael-spengler/fairness/blob/main/README.md    
+https://cultdao-ecosystem.eth.limo  
+https://rvlt-ecosystem.eth.limo  
+https://www.reddit.com/r/RVLTStreetBets  
+https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection  
 
 ## Suggested Worthyness 
 1 WETH
