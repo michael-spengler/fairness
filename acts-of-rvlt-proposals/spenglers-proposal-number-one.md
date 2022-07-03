@@ -5,7 +5,10 @@ I plan to provide the following data on https://revolt.cultdao.io/submitProposal
 Foster The RVLT Ecosystem By Providing Prototypes, Web Apps, Concepts, Promotion & Communities
 
 ## Social Handles
-https://twitter.com/Peer2peerE / https://www.facebook.com/michael.spengler.5686 / https://www.linkedin.com/in/michael-spengler-0a58b489
+https://twitter.com/Peer2peerE  
+https://www.facebook.com/michael.spengler.5686  
+https://www.reddit.com/user/WeeklySomewhere7653
+https://www.linkedin.com/in/michael-spengler-0a58b489
 
 ## Description
 I have provided the following community facilitation artefacts. Feedback and Contributions on all of them are welcome.
