@@ -94,6 +94,9 @@ It might be great to have some native speakers (e.g. of top 10 most used languag
 ## Spread Love & Fairness
 ... for example by sharing the [cultkamasutra.eth](https://cultkamasutra.eth.limo) / [repo](https://github.com/michael-spengler/cultkamasutra)  
 
+## Provide RVLT Land and or CULT Land
+Inspired by the [decentraland.org](https://decentraland.org/), it might be worth considering to implement CULTland and or RVLTland as an additional [cultdao.io](https://cultdao.io) ecosystem project. People would have the chance to buy spaces within those lands and with that they can have digital representations of the stations they went through and loved during their CULT journey.
+
 ## CULT.DAO Proposals
 We consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
 1. Name of the Guardian submitting the Proposal   
