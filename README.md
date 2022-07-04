@@ -30,7 +30,7 @@ I made the experience that students love to explore mechanisms by exploring thin
 1. Introduce [RVLTStreetBets](https://www.reddit.com/r/RVLTStreetBets/) 
 2. When it comes to buybacks & burns: provide a smart contract which optimizes and automates: https://twitter.com/MrOmodulus/status/1543161520770764800?s=20&t=mlnnqS24nIuTiRis8VW90Q  
 3. https://twitter.com/Peer2peerE/status/1543498333494312960?s=20   
-4. Publicly and intentionally increase volatility as a community - attracting traders - ... this would remind me of WSB --> mainstreetbets ... - filling the treasury as a community effort ... one main follow up question would of course be how to increase volatility as a community (sentiment waves, community votes based buy / sell recommendations, ...) ... everyone would want to be in the public in-crowd of course - it would exploit "outside" traders - this would be imo just the other way round than centralized finance insiders tricked retail traders "in the past" ... --> may the force be with the many --> We The Many = The Public In-Crowd would move the price right from the beginning not centralized manipulators with deep pockets.   
+4. https://www.reddit.com/r/RVLTStreetBets/comments/vqjbn2/thinking_about_rogue_ideas_to_fill_the_rvlt/?utm_source=share&utm_medium=web2x&context=3
 5. waiting for your pull requests  
 6. waiting for your pull requests  
 7. ...  
