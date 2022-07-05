@@ -94,6 +94,9 @@ It might be great to have some native speakers (e.g. of top 10 most used languag
 ## Spread Love & Fairness
 ... for example by sharing the [cultkamasutra.eth](https://cultkamasutra.eth.limo) / [repo](https://github.com/michael-spengler/cultkamasutra)  
 
+## Peer To Peer Messaging DAPP - e.g. on Polygon
+We shall find or implement a Peer To Peer Messaging DAPP. Your wallet address would be the replacement of your e-mail address. Spam would be reduced due to the fact that each sender of a message (transaction) needs to pay some minor gas fee --> shall be fine e.g. on Polygon, Arbitrum, Pulsechain and others. 
+
 ## Provide RVLT Land and or CULT Land
 Inspired by the [decentraland.org](https://decentraland.org/), it might be worth considering to implement CULTland and or RVLTland as an additional [cultdao.io](https://cultdao.io) ecosystem project. People would have the chance to buy spaces within those lands and with that they can have digital representations of the stations they came across and loved during their CULT journey.
 
