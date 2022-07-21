@@ -36,6 +36,8 @@ As soon as centralized governments are no longer in power, there might be some q
 1. Do we need a (decentralized) police to enforce fairness in the new system?   
 2. If yes: How would this be organzized / incentivized best?   
 
+### Universal Basic Income
+The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc.
 
 ## Supporting the Distributedness of our Movement
 ### Welcome Present CULT & RVLT
@@ -92,15 +94,6 @@ The specific voter can earn a reward if his chosen answer option turns out to be
 The specific voter looses his "betted" Coins if his chosen answer option turns out not to be the majority's opinion at the end of the voting phase.. 
 
 This mechanism shall incentivize active voters to vote in the interest of the majority of the community.
-
-// Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
-
-## Universal Basic Income
-The [Fairness Coin (FC)](https://github.com/distributed-ledger-technology/fairness/tree/main/coin) is a newly created currency which enables a Universal Basic Income. It is currently deployed on the Ropsten Test Net in a prototyping mode. Before a potential launch on mainnet we will ensure that the mechanisms are sufficiently tested.
-
-One Fairness Coin is minted per day and per registered wallet (proof of humanity) and automatically transferred to the corresponding registered wallet.
-
-The received Fairness Coins can either be sold or used as governance token in the Fairness DAO aka World Fairness Forum.
 
 // Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
 
