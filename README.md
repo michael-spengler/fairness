@@ -110,6 +110,17 @@ I would appreciate if also web2 public good creators could receive rewards - e.g
 ## Spread Love & Fairness
 ... for example by sharing the [cultkamasutra.eth](https://cultkamasutra.eth.limo) / [repo](https://github.com/michael-spengler/cultkamasutra)  
 
+## Dance & Laugh
+We plan to revitalize the former Dance Planner App.   
+Motto: "Dance for Freedom and Find The Perfect Dance Event Within Seconds".  
+
+Centralized Governments might again try to create fear to separate people from each other. 
+
+We want to make sure that it is as simple as never before to get together, dance, laugh in fair contexts while supporting the CULT. 
+
+People will be able to earn CULT or RVLT by dancing and laughing together. 
+
+
 ## CULT.DAO Proposals
 We consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
 1. Name of the Guardian submitting the Proposal   
