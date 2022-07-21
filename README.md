@@ -35,12 +35,19 @@ I made the experience that students love to explore mechanisms by exploring thin
 6. waiting for your pull requests  
 7. ...  
 
+
+## CULT Food
+CULT & RVLT shall cause fear for centralizing politicians etc.   
+CULT & RVLT shall cause safety, hope and love for fair people   
+
+In this respect, we might ensure that fair, reasonable people are able to be safe during the downfall of centralized governments. 
+
+While centralized governments will loose their power, they might want to cause chaos to give us some bullshit reasons to be able to introduce their fucked up CBDCs. 
+
+So it might be a great idea to establish decentralized local food markets where people can pay with CULT, RVLT or Silver.
+
 ### Acts of RVLT Ideas & Feedback
 We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment.
-
-## Leverage Inspiration from Pulsechain's Pulsepot
-Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
-It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so. We might ask Jacob if he is interested in teaming up.
 
 ## Free Speech
 Media shall inform, educate and explore in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream video- & chatplatform which has a decentralized backend and frontend (the latter via ens.domains) including a fully decentralized content moderation and decentralized, permissionless user authentication. 
@@ -60,13 +67,17 @@ In order to exploit manipulation induced (non fundamentals based...) volatility,
 
 [![Screenshot 2022-06-13 at 17 15 28](https://user-images.githubusercontent.com/43786652/173386659-e8a73aec-bd77-4a73-8e6e-9a1dcc0e480d.png)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
 
-## Decentralized Governance
-The [Fairness DAO](https://github.com/distributed-ledger-technology/fairness/tree/main/dao) shall foster real = direct democracy and with that fair systems. It will contain rather day to day decision making features - e.g. comparing it to the [cultdao.io](https://cultdao.io) which is rather focused on relatively bold investment decisions.  
+## Leverage Inspiration from Pulsechain's Pulsepot
+Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
+It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so. We might ask Jacob if he is interested in teaming up.
 
-Regarding the Tokenomics of the Fairness Coin in the context of the Fairness DAO, we plan to use a combination of "quadratic voting" and "community oriented feeback loops". 
+## Decentralized Governance For Day To Day Local Decisions
+There might be local fairness DAOs to foster real = direct democracy and with that fair systems. 
 
-The specific voter can earn a reward if his chosen answer option turns out to be the majority's opinion. 
-The specific voter looses his "betted" FC if his chosen answer option turns out not to be the majority's opinion. 
+Regarding the tokenomics of those local fairness DAOs we might use a combination of "quadratic voting" and "community oriented feeback loops". 
+
+The specific voter can earn a reward if his chosen answer option turns out to be the majority's opinion at the end of the voting phase. 
+The specific voter looses his "betted" Coins if his chosen answer option turns out not to be the majority's opinion at the end of the voting phase.. 
 
 This mechanism shall incentivize active voters to vote in the interest of the majority of the community.
 
