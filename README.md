@@ -37,6 +37,18 @@ As soon as centralized governments are no longer in power, there might be some q
 ### Universal Basic Income
 The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc.
 
+## Rogue Ideas to Fill the Treasury & Boost the Price
+We might introduce [RVLTStreetBets](https://www.reddit.com/r/RVLTStreetBets/) to promote flows like: 
+
+1. buy long derivate on CULT or RVLT (to hedge against actors who want to exploit us playing "poker" with open hands (at the CULT family table))
+2. community sell CULT or RVLT to lower the price 
+3. increase leverage (see 1.)
+4. community buyback
+5. close the long derivate position (see 1.)
+
+I made the experience that students love to explore mechanisms by exploring things like [Real Life Thrillers](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md). In this respect I would find it great, if we could collect many more rogue ideas to fill the treasury & boost the price. Exploring and establishing those mechanisms further will be highly educational for people and beneficial for the cult imo. ... It's like the many turning the tide :) I love that.
+
+
 ## Supporting the Distributedness of our Movement
 ### Welcome Present CULT & RVLT
 In order to give people the chance to have a good starting position when it comes to [CULT](https://coinmarketcap.com/currencies/cult-dao) & [RVLT](https://coinmarketcap.com/currencies/revolt-2-earn) and in order to increase the distributedness of our movement, we have provided a [welcome present feature for CULT](https://cultdao-ecosystem.eth.limo/) and a [welcome present feature for RVLT](https://rvlt-ecosystem.eth.limo/).  
@@ -45,18 +57,6 @@ Facebook seems to be the platform with the lowest fake-/real account ratio - thi
 [![1500x500](https://user-images.githubusercontent.com/43786652/173186666-59020ce5-d29e-457a-94ee-a389471ac2de.jpeg)](https://cultdao-ecosystem.eth.limo)
 
 If those welcome present features turn out to be successful in terms of improving the distributedness of our CULT and with that improving the potential for more - real - direct democracy & fairness, we might implement a decentralized / smart contract based backend for it.  
-
-## Rogue Ideas to Fill the Treasury & Boost the Price
-I made the experience that students love to explore mechanisms by exploring things like [Real Life Thrillers](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md). In this respect I would find it great, if we could collect rogue ideas to fill the treasury & boost the price. Exploring and establishing those mechanisms further will be highly educational for people and beneficial for the cult imo. ... It's like the many turning the tide :) I love that.
-
-1. Introduce [RVLTStreetBets](https://www.reddit.com/r/RVLTStreetBets/) 
-2. When it comes to buybacks & burns: provide a smart contract which optimizes and automates: https://twitter.com/MrOmodulus/status/1543161520770764800?s=20&t=mlnnqS24nIuTiRis8VW90Q  
-3. https://twitter.com/Peer2peerE/status/1543498333494312960?s=20   
-4. https://www.reddit.com/r/RVLTStreetBets/comments/vqjbn2/thinking_about_rogue_ideas_to_fill_the_rvlt/?utm_source=share&utm_medium=web2x&context=3
-5. waiting for your pull requests  
-6. waiting for your pull requests  
-7. ...  
-
 
 ### Acts of RVLT Ideas & Feedback
 We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment.
