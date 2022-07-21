@@ -10,8 +10,6 @@ Motivation for this project comes from observing many ["Real Life Thrillers"](ht
 
 Contributions (Issues, Pull Requests...) are welcome. If you are a CultDAO family member ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://t.me/danceplanner).
 
-You might want to stay up to date about the cult via [telegram](t.me/cultdaothemany), [discord](https://discord.gg/jrTjx4F6Xk), [twitter](https://twitter.com/wearecultdao), [medium](https://wearecultdao.medium.com/), ...  
-
 If you are a guardian, wanting to bring this project to the next level, feel free to contact me via [telegram](https://t.me/danceplanner) or [twitter](https://twitter.com/Peer2peerE) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
 
 ## Off-Chain Challenges
