@@ -15,7 +15,7 @@ You might want to stay up to date about the cult via [telegram](t.me/cultdaothem
 If you are a guardian, wanting to bring this project to the next level, feel free to contact me via [telegram](https://t.me/danceplanner) or [twitter](https://twitter.com/Peer2peerE) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
 
 ## Off-Chain Challenges
-Leveraging chainlink might be a good idea to connect the On-Chain and the Off-Chain world in reasonable ways.
+Leveraging chainlink might be a good idea to connect the On-Chain and the Off-Chain world in reasonable ways - e.g. when it comes to the following challenges / solutions.
 
 ### CULT Food
 
