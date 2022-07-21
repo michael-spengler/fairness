@@ -58,30 +58,24 @@ Facebook seems to be the platform with the lowest fake-/real account ratio - thi
 
 If those welcome present features turn out to be successful in terms of improving the distributedness of our CULT and with that improving the potential for more - real - direct democracy & fairness, we might implement a decentralized / smart contract based backend for it.  
 
-### Acts of RVLT Ideas & Feedback
-We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment.
+### Leverage Inspiration from Pulsechain's Pulsepot
+Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c).  
+It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so. We might ask Jacob if he is interested in teaming up.
 
 ## Free Speech
 Media shall inform, educate and explore in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream video- & chatplatform which has a decentralized backend and frontend (the latter via ens.domains) including a fully decentralized content moderation and decentralized, permissionless user authentication. 
 Spam shall be avoided by punishing spamming wallets financially. This can be done by requesting to stake CULT before someone behind a wallet can post anything --> if the decentralized content moderation comes to the conclusion that someone (behind a wallet) tried to spam the community his stakes shall be given to someone who is respectful and perhaps even helpful for the community.
 
-// Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
+We shall also find or implement a Peer To Peer Messaging DAPP. Your wallet address would be the replacement of your e-mail address. Spam would be reduced due to the fact that each sender of a message (transaction) needs to pay some minor gas fee --> shall be fine e.g. on Polygon, Arbitrum, Pulsechain and other platforms. 
+
+## Improve censorship resistance of the CULTDAO.io Frontend
+Is the [cultdao.io](https://cultdao.io) frontend also available via ipfs? If not provide it and propose to connect it with a proper [https://ens.domains](ens.domains) based ...eth.limo / ...eth.link domain. 
 
 ## Peer To Peer On- / Off Ramp
 As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
 
 ## Peer To Peer Service Exchange
 It maybe a good idea to have further approaches like [gitcoin.co](https://gitcoin.co) in place and or to extend gitcoin's features in a way that it also serves as a general decentralized version of [fiverr](https://www.fiverr.com/). Gitcoin is imo great for web3 insiders. I wonder what is necessary to foster a peer 2 peer economy even further fostering "mainstream adoption"...
-
-## Decentralized Volatility Farming
-In order to exploit manipulation induced (non fundamentals based...) volatility, there shall be a smart contract which applies https://deno.land/x/bollinger_bands based swaps between pairs like ETH/CULT. This smart contract shall automatically accumulate ETH, which shall be automatically staked to further stabilize the (PoS) mainnet. This approach could also be applied on other chains of course. 
-
-
-[![Screenshot 2022-06-13 at 17 15 28](https://user-images.githubusercontent.com/43786652/173386659-e8a73aec-bd77-4a73-8e6e-9a1dcc0e480d.png)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
-
-## Leverage Inspiration from Pulsechain's Pulsepot
-Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). 
-It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so. We might ask Jacob if he is interested in teaming up.
 
 ## Decentralized Governance For Day To Day Local Decisions
 There might be local fairness DAOs to foster real = direct democracy and with that fair systems. 
@@ -93,26 +87,28 @@ The specific voter looses his "betted" Coins if his chosen answer option turns o
 
 This mechanism shall incentivize active voters to vote in the interest of the majority of the community.
 
-// Under Construction - Prototyping and Checking if another cultdao.io ecosystem project might already accomplish what is also intended here.
-
 ## NFT Platform Which Only Accepts CULT for Payments 
 You might check the [Prototype](https://github.com/michael-spengler/fairness/tree/main/nft-platform-which-only-accepts-cult-for-payments).  
 Having an NFT platform which requires their users to buy and sell via [cult](https://coinmarketcap.com/currencies/cult-dao) might be great.
 
+## Provide RVLT Land and or CULT Land
+Inspired by the [decentraland.org](https://decentraland.org/), it might be worth considering to implement CULTland and or RVLTland as an additional [cultdao.io](https://cultdao.io) ecosystem project. People would have the chance to buy spaces within those lands and with that they can have digital representations of the stations they came across and loved during their CULT journey.
+
+## Decentralized Volatility Farming
+In order to exploit manipulation induced (non fundamentals based...) volatility, there shall be a smart contract which applies https://deno.land/x/bollinger_bands based swaps between pairs like ETH/CULT. This smart contract shall automatically accumulate ETH, which shall be automatically staked to further stabilize the (PoS) mainnet. This approach could also be applied on other chains of course. 
+
+
+[![Screenshot 2022-06-13 at 17 15 28](https://user-images.githubusercontent.com/43786652/173386659-e8a73aec-bd77-4a73-8e6e-9a1dcc0e480d.png)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
+
+## Acts of RVLT Ideas & Feedback
+We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment. There might be synergies with [cultoshi.com](https://cultoshi.com/).
+
+
 ## General Open Source Rewards
 I would appreciate if also web2 public good creators could receive rewards - e.g. for laying the foundation for successful off-chain parts - thinking e.g. about the guys behind [deno.land](https://deno.land/) (Ryan, Lukas, ...). Maybe the [Contributor Assistant](https://github.com/contributor-assistant) could deliver inspirations... on how this could be further facilitated / integrated into those public goods projects.  
 
-## Promotion Info Supporting CultDAO.io
-It might be great to have some native speakers (e.g. of top 10 most used languages) translating the manifesto etc. 
-
 ## Spread Love & Fairness
 ... for example by sharing the [cultkamasutra.eth](https://cultkamasutra.eth.limo) / [repo](https://github.com/michael-spengler/cultkamasutra)  
-
-## Peer To Peer Messaging DAPP - e.g. on Polygon
-We shall find or implement a Peer To Peer Messaging DAPP. Your wallet address would be the replacement of your e-mail address. Spam would be reduced due to the fact that each sender of a message (transaction) needs to pay some minor gas fee --> shall be fine e.g. on Polygon, Arbitrum, Pulsechain and others. 
-
-## Provide RVLT Land and or CULT Land
-Inspired by the [decentraland.org](https://decentraland.org/), it might be worth considering to implement CULTland and or RVLTland as an additional [cultdao.io](https://cultdao.io) ecosystem project. People would have the chance to buy spaces within those lands and with that they can have digital representations of the stations they came across and loved during their CULT journey.
 
 ## CULT.DAO Proposals
 We consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
