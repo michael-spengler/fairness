@@ -14,6 +14,28 @@ You might want to stay up to date about the cult via [telegram](t.me/cultdaothem
 
 If you are a guardian, wanting to bring this project to the next level, feel free to contact me via [telegram](https://t.me/danceplanner) or [twitter](https://twitter.com/Peer2peerE) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
 
+## Off-Chain Challenges
+Leveraging chainlink might be a good idea to connect the On-Chain and the Off-Chain world in reasonable ways.
+
+### CULT Food
+
+While centralized governments loose their power, they might want to cause chaos to give us some bullshit reasons to be able to introduce their fucked up CBDCs. They can cause such chaos e.g. by preventing people from finding enough to eat.
+
+So it might be a great idea to establish decentralized local food markets where people can pay with CULT, RVLT or Silver.
+
+CULT & RVLT shall cause fear for centralizing politicians etc.   
+CULT & RVLT shall cause safety, hope and love for fair people   
+
+In this respect, we might ensure that fair, reasonable people are able to be safe during the downfall of centralized governments. 
+
+I would love to support prototypes paving the way to decentralized local CULT food markets. 
+
+
+### CULT Police
+As soon as centralized governments are no longer in power, there might be some questions like:
+1. Do we need a (decentralized) police to enforce fairness in the new system?   
+2. If yes: How would this be organzized / incentivized best?   
+
 
 ## Supporting the Distributedness of our Movement
 ### Welcome Present CULT & RVLT
@@ -35,16 +57,6 @@ I made the experience that students love to explore mechanisms by exploring thin
 6. waiting for your pull requests  
 7. ...  
 
-
-## CULT Food
-CULT & RVLT shall cause fear for centralizing politicians etc.   
-CULT & RVLT shall cause safety, hope and love for fair people   
-
-In this respect, we might ensure that fair, reasonable people are able to be safe during the downfall of centralized governments. 
-
-While centralized governments will loose their power, they might want to cause chaos to give us some bullshit reasons to be able to introduce their fucked up CBDCs. 
-
-So it might be a great idea to establish decentralized local food markets where people can pay with CULT, RVLT or Silver.
 
 ### Acts of RVLT Ideas & Feedback
 We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/vov76b/acts_of_rvlt_idea_collection/) to receive feedback from the many for some acts of RVLT which would require a decent amount of investment.
