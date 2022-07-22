@@ -28,11 +28,11 @@ In this respect, we might ensure that fair, reasonable people are able to be saf
 
 I would love to support prototypes paving the way to decentralized local CULT food markets. 
 
-
-### CULT Police
-As soon as centralized governments are no longer in power, there might be some questions like:
+### CULT Schools / CULT Police / CULT Firefighters / CULT Infrastructure (Streets etc.)
+As soon as centralized governments are no longer in power, there might be questions like:
 1. Do we need a (decentralized) police to enforce fairness in the new system?   
-2. If yes: How would this be organzized / incentivized best?   
+2. If yes: How would this be organzized / incentivized best?
+
 
 ### Universal Basic Income
 The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc.
