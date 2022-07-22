@@ -37,6 +37,16 @@ As soon as centralized governments are no longer in power, there might be questi
 ### Universal Basic Income
 The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc.
 
+## CULT Chat
+
+Establish a dedicated decentralized Chat App - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
+
+
+1. Ensure freedom or speech  
+2. Further improve awareness about CULT (the chat app itself would be CULT)  
+3. Use wallet address with staked CULT for "user authentication"  
+4. ... 
+
 ## Rogue Ideas to Fill the Treasury & Boost the Price
 We might introduce [RVLTStreetBets](https://www.reddit.com/r/RVLTStreetBets/) to promote flows like: 
 
