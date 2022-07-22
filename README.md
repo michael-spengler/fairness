@@ -48,7 +48,7 @@ We might introduce [RVLTStreetBets](https://www.reddit.com/r/RVLTStreetBets/) to
 
 I made the experience that students love to explore mechanisms by exploring things like [Real Life Thrillers](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md). In this respect I would find it great, if we could collect many more rogue ideas to fill the treasury & boost the price. Exploring and establishing those mechanisms further will be highly educational for people and beneficial for the cult imo. ... It's like the many turning the tide :) I love that.
 
-## CULT Education on Universities & Schools
+## CULT Education on Existing Universities & Schools
 Introduce and incentivize Distributed Ledger (real democracy) education at schools by rewarding schools who offer this with CULT - improving the Budget situaion for many schools.
 
 Check with Patrick & Sebastian to which extend [HWZ](https://fh-hwz.ch/person/comboeuf-patrick-studiengangsleitung/) and [DHBW Mannheim](https://www.mannheim.dhbw.de) would be interested.  
