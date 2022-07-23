@@ -42,10 +42,13 @@ The time might be right to leverage potential synergies with [democracy.earth](h
 Establish a dedicated decentralized Chat App - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
 
 
-1. Ensure freedom or speech  
+1. Ensure freedom of speech  
 2. Further improve awareness about CULT (the chat app itself would be CULT)  
 3. Use wallet address with staked CULT for "user authentication"  
 4. ... 
+
+The CULT Chat can be regarded as Peer To Peer Messaging DAPP. Your wallet address would be the replacement of your e-mail address or phonenumber. Spam would be reduced due to the fact that each sender of a message (transaction) needs to pay some minor gas fee --> shall be fine e.g. on Polygon, Arbitrum, Pulsechain and other platforms. 
+
 
 ## Rogue Ideas to Fill the Treasury & Boost the Price
 We might introduce [RVLTStreetBets](https://www.reddit.com/r/RVLTStreetBets/) to promote flows like: 
@@ -80,10 +83,11 @@ It might make sense to have something like [https://pulsepot.io/](https://pulsep
 Media shall inform, educate and explore in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream video- & chatplatform which has a decentralized backend and frontend (the latter via ens.domains) including a fully decentralized content moderation and decentralized, permissionless user authentication. 
 Spam shall be avoided by punishing spamming wallets financially. This can be done by requesting to stake CULT before someone behind a wallet can post anything --> if the decentralized content moderation comes to the conclusion that someone (behind a wallet) tried to spam the community his stakes shall be given to someone who is respectful and perhaps even helpful for the community.
 
-We shall also find or implement a Peer To Peer Messaging DAPP. Your wallet address would be the replacement of your e-mail address. Spam would be reduced due to the fact that each sender of a message (transaction) needs to pay some minor gas fee --> shall be fine e.g. on Polygon, Arbitrum, Pulsechain and other platforms. 
-
 ## Improve censorship resistance of the CULTDAO.io Frontend
 Is the [cultdao.io](https://cultdao.io) frontend also available via ipfs? If not provide it and propose to connect it with a proper [https://ens.domains](ens.domains) based ...eth.limo / ...eth.link domain. 
+
+## CULT Pot
+Inspired by [pulsepot.io](https://pulsepot.io), it might be a good idea to gamify learning and onboarding.
 
 ## Peer To Peer On- / Off Ramp
 As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
