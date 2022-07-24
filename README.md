@@ -12,34 +12,6 @@ Contributions (Issues, Pull Requests...) are welcome. If you are a CultDAO famil
 
 If you are a guardian, wanting to bring this project to the next level, feel free to contact me via [telegram](https://t.me/danceplanner) or [twitter](https://twitter.com/Peer2peerE) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
 
-## Off-Chain Challenges
-Leveraging chainlink might be a good idea to connect the On-Chain and the Off-Chain world in reasonable ways - e.g. when it comes to the following challenges / solutions.
-
-### CULT Food
-
-While centralized governments loose their power, they might want to cause chaos to give us some bullshit reasons to be able to introduce their fucked up CBDCs. They can cause such chaos e.g. by preventing people from finding enough to eat.
-
-So it might be a great idea to establish decentralized local food markets where people can pay with CULT, RVLT or Silver.
-
-CULT & RVLT shall cause fear for centralizing politicians etc.   
-CULT & RVLT shall cause safety, hope and love for fair people   
-
-In this respect, we might ensure that fair, reasonable people are able to be safe during the downfall of centralized governments. 
-
-I would love to support prototypes paving the way to decentralized local CULT food markets. 
-
-### CULT Schools / CULT Police / CULT Firefighters / CULT Infrastructure (Streets etc.)
-As soon as centralized governments are no longer in power, there might be questions like:
-1. Do we need a (decentralized) police to enforce fairness in the new system?   
-2. If yes: How would this be organzized / incentivized best?
-
-
-### Universal Basic Income
-The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc. 
-
-As an alternative to the relatively difficult proof of humanity approach it might make sense to mint a UBI coin for each wallet which has dCULT on a regular basis. This would further incentivize long term CULT staking. 
-
-
 ## CULT Chat
 
 Establish a dedicated [decentralized Chat App](https://www.youtube.com/watch?v=J5x3OMXjgMc) - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
@@ -83,7 +55,35 @@ If those welcome present features turn out to be successful in terms of improvin
 Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c).  
 It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so. We might ask Jacob if he is interested in teaming up.
 
-## Free Speech
+## Off-Chain Challenges
+Leveraging chainlink might be a good idea to connect the On-Chain and the Off-Chain world in reasonable ways - e.g. when it comes to the following challenges / solutions.
+
+### CULT Food
+
+While centralized governments loose their power, they might want to cause chaos to give us some bullshit reasons to be able to introduce their fucked up CBDCs. They can cause such chaos e.g. by preventing people from finding enough to eat.
+
+So it might be a great idea to establish decentralized local food markets where people can pay with CULT, RVLT or Silver.
+
+CULT & RVLT shall cause fear for centralizing politicians etc.   
+CULT & RVLT shall cause safety, hope and love for fair people   
+
+In this respect, we might ensure that fair, reasonable people are able to be safe during the downfall of centralized governments. 
+
+I would love to support prototypes paving the way to decentralized local CULT food markets. 
+
+### CULT Schools / CULT Police / CULT Firefighters / CULT Infrastructure (Streets etc.)
+As soon as centralized governments are no longer in power, there might be questions like:
+1. Do we need a (decentralized) police to enforce fairness in the new system?   
+2. If yes: How would this be organzized / incentivized best?
+
+
+### Universal Basic Income
+The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc. 
+
+As an alternative to the relatively difficult proof of humanity approach it might make sense to mint a UBI coin for each wallet which has dCULT on a regular basis. This would further incentivize long term CULT staking. 
+
+
+## Free Speech in Media
 Media shall inform, educate and explore in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream video- & chatplatform which has a decentralized backend and frontend (the latter via ens.domains) including a fully decentralized content moderation and decentralized, permissionless user authentication. 
 Spam shall be avoided by punishing spamming wallets financially. This can be done by requesting to stake CULT before someone behind a wallet can post anything --> if the decentralized content moderation comes to the conclusion that someone (behind a wallet) tried to spam the community his stakes shall be given to someone who is respectful and perhaps even helpful for the community.
 
