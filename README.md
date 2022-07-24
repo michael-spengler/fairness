@@ -6,7 +6,7 @@ This project supports the [cultdao.io](https://cultdao.io) and is meant to proto
 
 This project leverages the [Distributed Ledger Technology](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture) to build  incentive systems which foster fairness. 
 
-Motivation for this project comes from observing many ["Real Life Thrillers"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) revealing a lack of fairness in political and economic systems.
+[Motivation](https://www.youtube.com/watch?v=fW8amMCVAJQ&t=2s) for this project comes from observing many ["Real Life Thrillers"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) revealing a [lack of fairness](https://www.youtube.com/watch?v=9aRTo5nflCY) in political and economic systems.
 
 Contributions (Issues, Pull Requests...) are welcome. If you are a CultDAO family member ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://t.me/danceplanner).
 
@@ -37,7 +37,7 @@ We might introduce [RVLTStreetBets](https://www.reddit.com/r/RVLTStreetBets/) to
 
 I made the experience that students love to explore mechanisms by exploring things like [Real Life Thrillers](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md). In this respect I would find it great, if we could collect many more rogue ideas to fill the treasury & boost the price. Exploring and establishing those mechanisms further will be highly educational for people and beneficial for the cult imo. ... It's like the many turning the tide :) I love that.
 
-## CULT Education on Existing Universities & Schools
+## CULT Education at Existing Universities & Schools
 Introduce and incentivize Distributed Ledger Education (real democracy education) at schools by rewarding schools who offer this with CULT - improving the budget situaion for many schools.
 
 Check with Patrick & Sebastian to which extend [HWZ](https://fh-hwz.ch/person/comboeuf-patrick-studiengangsleitung/) and [DHBW Mannheim](https://www.mannheim.dhbw.de) would be interested.  
