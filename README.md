@@ -8,9 +8,7 @@ This project leverages the [Distributed Ledger Technology](https://github.com/mi
 
 [Motivation](https://www.youtube.com/watch?v=fW8amMCVAJQ&t=2s) for this project comes from observing many ["Real Life Thrillers"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) revealing a [lack of fairness](https://www.youtube.com/watch?v=9aRTo5nflCY) in political and economic systems.
 
-Contributions (Issues, Pull Requests...) are welcome. If you are a CultDAO family member ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://t.me/danceplanner).
-
-If you are a guardian, wanting to bring this project to the next level, feel free to contact me via [telegram](https://t.me/danceplanner) or [twitter](https://twitter.com/Peer2peerE) so we can team up for a corresponding [cultdao.io proposal](https://app.cultdao.io/submitProposal). 
+Contributions (Issues, Pull Requests...) are welcome. If you are a CultDAO family member ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://twitter.com/Peer2peerE).
 
 ## CULT Chat
 
