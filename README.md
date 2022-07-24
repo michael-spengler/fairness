@@ -39,7 +39,7 @@ The time might be right to leverage potential synergies with [democracy.earth](h
 
 ## CULT Chat
 
-Establish a dedicated decentralized Chat App - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
+Establish a dedicated [decentralized Chat App](https://www.youtube.com/watch?v=J5x3OMXjgMc) - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
 
 
 1. Ensure freedom of speech  
