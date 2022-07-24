@@ -49,10 +49,6 @@ Facebook seems to be the platform with the lowest fake-/real account ratio - thi
 
 If those welcome present features turn out to be successful in terms of improving the distributedness of our CULT and with that improving the potential for more - real - direct democracy & fairness, we might implement a decentralized / smart contract based backend for it.  
 
-### Leverage Inspiration from Pulsechain's Pulsepot
-Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c).  
-It might make sense to have something like [https://pulsepot.io/](https://pulsepot.io) for RVLT --> RVLTPot or so. We might ask Jacob if he is interested in teaming up.
-
 ## Off-Chain Challenges
 Leveraging chainlink might be a good idea to connect the On-Chain and the Off-Chain world in reasonable ways - e.g. when it comes to the following challenges / solutions.
 
@@ -89,7 +85,8 @@ Spam shall be avoided by punishing spamming wallets financially. This can be don
 Is the [cultdao.io](https://cultdao.io) frontend also available via ipfs? If not provide it and propose to connect it with a proper [https://ens.domains](ens.domains) based ...eth.limo / ...eth.link domain. 
 
 ## CULT Pot
-Inspired by [pulsepot.io](https://pulsepot.io), it might be a good idea to gamify learning and onboarding.
+Inspired by [pulsepot.io](https://pulsepot.io), it might be a good idea to gamify learning and onboarding.  
+Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). We might ask Jacob if he is interested in teaming up.
 
 ## Peer To Peer On- / Off Ramp
 As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
