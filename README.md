@@ -138,6 +138,13 @@ We want to make sure that it is as simple as never before to get together, dance
 
 People will be able to earn CULT or RVLT by dancing and laughing together. 
 
+## Frontend Improvement Proposals
+### Update Connected Account 
+Some people use several accounts / specific wallets within their one metamask. This is also true for me. When I change the active account in metamask some pages like uniswap.org already recognize this and ask to you want to update the account with which you are connected to this site. This would be amazing if you could build that in on cultdao.io as well. This is also relevant for doing a quick CULTmander check for all accounts within metamask --> background: I guess many cultmanders just do not know if one of their accounts / specific wallets was selected for the current cycle...
+
+### Introduce Routing to Link to Specific Proposal
+This would speed up the CULTmander's voting process by reducing the amount of clicks needed. With this one could just update the number in the URL's query parameter or path parameter. Also sharing links to specific proposals would be simpler.
+
 
 ## CULT.DAO Proposals
 We consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
