@@ -35,7 +35,10 @@ As soon as centralized governments are no longer in power, there might be questi
 
 
 ### Universal Basic Income
-The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc.
+The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc. 
+
+As an alternative to the relatively difficult proof of humanity approach it might make sense to mint a UBI coin for each wallet which has dCULT on a regular basis. This would further incentivize long term CULT staking. 
+
 
 ## CULT Chat
 
