@@ -54,7 +54,7 @@ Prepare youtube videos in many languages as a basis for teachers who are new to 
 ## Peer To Peer On- / Off Ramp
 As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
 
-### Universal Basic Income
+## Universal Basic Income
 The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc. 
 
 As an alternative to the relatively difficult proof of humanity approach it might make sense to mint a UBI coin for each wallet which has dCULT on a regular basis. This would further incentivize long term CULT staking. 
@@ -142,7 +142,8 @@ Centralized Governments might again try to create fear to separate people from e
 
 We want to make sure that it is as simple as never before to get together, dance, laugh in fair contexts while supporting the CULT. 
 
-People will be able to earn CULT or RVLT by dancing and laughing together. 
+People will be able to earn CULT or RVLT by dancing and laughing together.  
+CULT Dance Party Organizers could be rewarded with [CULT](https://coinmarketcap.com/currencies/cult-dao) or [RVLT](https://coinmarketcap.com/currencies/revolt-2-earn).
 
 ## CULT.DAO Proposals
 We consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
