@@ -20,6 +20,10 @@ This would speed up e.g. the CULTmander's voting process by reducing the amount 
 ### Update Connected Account 
 Some people use several accounts / specific wallets within their one metamask. This is also true for me. When I change the active account in metamask some pages like uniswap.org already recognize this and ask something like "do you want to update the account with which you are connected to this site?". This would be amazing if you could build that in on cultdao.io as well. This is also relevant for doing a quick CULTmander check for all accounts within metamask --> background: I guess many cultmanders just do not know if one of their accounts / specific wallets in metamask was selected for the current cycle...
 
+## CULT Hackathons
+We consider facilitating CULT Hackathons as [Acts of RVLT](https://revolt.cultdao.io/pendingProposal).  
+Some of the topics below could be explored / implemented during those Hackathons.  
+
 ## CULT Chat
 Establish a dedicated [decentralized Chat App](https://www.youtube.com/watch?v=J5x3OMXjgMc) - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
 
