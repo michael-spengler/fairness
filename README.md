@@ -38,7 +38,9 @@ I made the experience that students love to explore mechanisms by exploring thin
 ## CULT Education at Existing Universities & Schools
 Introduce and incentivize Distributed Ledger Education (real democracy education) at schools by rewarding schools who offer this with CULT - improving the budget situaion for many schools.
 
-Check with Patrick & Sebastian to which extend [HWZ](https://fh-hwz.ch/person/comboeuf-patrick-studiengangsleitung/) and [DHBW Mannheim](https://www.mannheim.dhbw.de) would be interested.  
+Check with Patrick & Sebastian to which extend [HWZ](https://fh-hwz.ch/person/comboeuf-patrick-studiengangsleitung/) and [DHBW Mannheim](https://www.mannheim.dhbw.de) would be interested.   
+
+Prepare youtube videos in many languages as a basis for teachers who are new to the CULT. 
 
 ## Supporting the Distributedness of our Movement
 ### Welcome Present CULT & RVLT
