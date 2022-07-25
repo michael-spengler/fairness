@@ -101,6 +101,21 @@ As soon as centralized governments are no longer in power, there might be questi
 Media shall inform, educate and explore in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream video- & chatplatform which has a decentralized backend and frontend (the latter via ens.domains) including a fully decentralized content moderation and decentralized, permissionless user authentication. 
 Spam shall be avoided by punishing spamming wallets financially. This can be done by requesting to stake CULT before someone behind a wallet can post anything --> if the decentralized content moderation comes to the conclusion that someone (behind a wallet) tried to spam the community his stakes shall be given to someone who is respectful and perhaps even helpful for the community.
 
+
+## Spread Love & Fairness
+... for example by sharing the [cultkamasutra.eth](https://cultkamasutra.eth.limo) / [repo](https://github.com/michael-spengler/cultkamasutra)  
+
+## Dance & Laugh
+We plan to revitalize the former Dance Planner App.   
+Motto: "Dance for Freedom and Find The Perfect Dance Event Within Seconds".  
+
+Centralized Governments might again try to create fear to separate people from each other. 
+
+We want to make sure that it is as simple as never before to get together, dance, laugh in fair contexts while supporting the CULT. 
+
+People will be able to earn CULT or RVLT by dancing and laughing together.  
+CULT Dance Party Organizers could be rewarded with [CULT](https://coinmarketcap.com/currencies/cult-dao) or [RVLT](https://coinmarketcap.com/currencies/revolt-2-earn).
+
 ## Decentralized Governance For Day To Day Local Decisions
 There might be local fairness DAOs to foster real = direct democracy and with that fair systems. 
 
@@ -130,20 +145,6 @@ We have posted [this idea collection](https://www.reddit.com/r/cultdao/comments/
 
 ## General Open Source Rewards
 I would appreciate if also web2 public good creators could receive rewards - e.g. for laying the foundation for successful off-chain parts - thinking e.g. about the guys behind [deno.land](https://deno.land/) (Ryan, Lukas, ...). Maybe the [Contributor Assistant](https://github.com/contributor-assistant) could deliver inspirations... on how this could be further facilitated / integrated into those public goods projects.  
-
-## Spread Love & Fairness
-... for example by sharing the [cultkamasutra.eth](https://cultkamasutra.eth.limo) / [repo](https://github.com/michael-spengler/cultkamasutra)  
-
-## Dance & Laugh
-We plan to revitalize the former Dance Planner App.   
-Motto: "Dance for Freedom and Find The Perfect Dance Event Within Seconds".  
-
-Centralized Governments might again try to create fear to separate people from each other. 
-
-We want to make sure that it is as simple as never before to get together, dance, laugh in fair contexts while supporting the CULT. 
-
-People will be able to earn CULT or RVLT by dancing and laughing together.  
-CULT Dance Party Organizers could be rewarded with [CULT](https://coinmarketcap.com/currencies/cult-dao) or [RVLT](https://coinmarketcap.com/currencies/revolt-2-earn).
 
 ## CULT.DAO Proposals
 We consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
