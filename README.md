@@ -15,7 +15,7 @@ Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO fami
 Is the [cultdao.io](https://cultdao.io) frontend also available via ipfs.io link? If not provide it and propose to connect it with a proper https://ens.domains based ...eth.limo / ...eth.link domain - similar to [cultkamasutra.eth.limo](https://cultkamasutra.eth.limo/). 
 
 ### Introduce Routing to Link to Specific Proposals
-This would speed up the CULTmander's voting process by reducing the amount of clicks needed. With this one could just update the number in the URL's query parameter or path parameter. Also sharing links to specific proposals would be simpler.
+This would speed up e.g. the CULTmander's voting process by reducing the amount of clicks needed. With this voters could just update the number in the URL's query parameter or path parameter while exploring and voting on all proposals. Also sharing links to specific proposals would be easier.
 
 ### Update Connected Account 
 Some people use several accounts / specific wallets within their one metamask. This is also true for me. When I change the active account in metamask some pages like uniswap.org already recognize this and ask to you want to update the account with which you are connected to this site. This would be amazing if you could build that in on cultdao.io as well. This is also relevant for doing a quick CULTmander check for all accounts within metamask --> background: I guess many cultmanders just do not know if one of their accounts / specific wallets was selected for the current cycle...
