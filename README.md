@@ -14,7 +14,7 @@ Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO fami
 ### Improve Censorship Resistance
 Is the [cultdao.io](https://cultdao.io) frontend also available via ipfs.io link? If not provide it and propose to connect it with a proper https://ens.domains based ...eth.limo / ...eth.link domain - similar to [cultkamasutra.eth.limo](https://cultkamasutra.eth.limo/). 
 
-### Introduce Routing to Link to Specific Proposal
+### Introduce Routing to Link to Specific Proposals
 This would speed up the CULTmander's voting process by reducing the amount of clicks needed. With this one could just update the number in the URL's query parameter or path parameter. Also sharing links to specific proposals would be simpler.
 
 ### Update Connected Account 
