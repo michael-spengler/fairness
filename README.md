@@ -10,8 +10,17 @@ This project leverages the [Distributed Ledger Technology](https://github.com/mi
 
 Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO family member](https://www.youtube.com/channel/UCWB7QUp9xOFEqEMQgvOn5Ww/videos) ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://twitter.com/Peer2peerE).
 
-## CULT Chat
+## Frontend Improvement Proposals
+### Improve Censorship Resistance
+Is the [cultdao.io](https://cultdao.io) frontend also available via ipfs.io link? If not provide it and propose to connect it with a proper https://ens.domains based ...eth.limo / ...eth.link domain - similar to [cultkamasutra.eth.limo](https://cultkamasutra.eth.limo/). 
 
+### Introduce Routing to Link to Specific Proposal
+This would speed up the CULTmander's voting process by reducing the amount of clicks needed. With this one could just update the number in the URL's query parameter or path parameter. Also sharing links to specific proposals would be simpler.
+
+### Update Connected Account 
+Some people use several accounts / specific wallets within their one metamask. This is also true for me. When I change the active account in metamask some pages like uniswap.org already recognize this and ask to you want to update the account with which you are connected to this site. This would be amazing if you could build that in on cultdao.io as well. This is also relevant for doing a quick CULTmander check for all accounts within metamask --> background: I guess many cultmanders just do not know if one of their accounts / specific wallets was selected for the current cycle...
+
+## CULT Chat
 Establish a dedicated [decentralized Chat App](https://www.youtube.com/watch?v=J5x3OMXjgMc) - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
 
 
@@ -41,6 +50,21 @@ Introduce and incentivize Distributed Ledger Education (real democracy education
 Check with Patrick & Sebastian to which extend [HWZ](https://fh-hwz.ch/person/comboeuf-patrick-studiengangsleitung/) and [DHBW Mannheim](https://www.mannheim.dhbw.de) would be interested.   
 
 Prepare youtube videos in many languages as a basis for teachers who are new to the CULT. 
+
+## Peer To Peer On- / Off Ramp
+As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
+
+### Universal Basic Income
+The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc. 
+
+As an alternative to the relatively difficult proof of humanity approach it might make sense to mint a UBI coin for each wallet which has dCULT on a regular basis. This would further incentivize long term CULT staking. 
+
+## CULT Pot
+Inspired by [pulsepot.io](https://pulsepot.io), it might be a good idea to gamify learning and onboarding.  
+Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). We might ask Jacob if he is interested in teaming up.
+
+## Peer To Peer Service Exchange
+It maybe a good idea to have further approaches like [gitcoin.co](https://gitcoin.co) in place and or to extend gitcoin's features in a way that it also serves as a general decentralized version of [fiverr](https://www.fiverr.com/). Gitcoin is imo great for web3 insiders. I wonder what is necessary to foster a peer 2 peer economy even further fostering "mainstream adoption"...
 
 ## Supporting the Distributedness of our Movement
 ### Welcome Present CULT & RVLT
@@ -73,28 +97,9 @@ As soon as centralized governments are no longer in power, there might be questi
 2. If yes: How would this be organzized / incentivized best?
 
 
-### Universal Basic Income
-The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc. 
-
-As an alternative to the relatively difficult proof of humanity approach it might make sense to mint a UBI coin for each wallet which has dCULT on a regular basis. This would further incentivize long term CULT staking. 
-
-
 ## Free Speech in Media
 Media shall inform, educate and explore in a "thesis, antithesis, synthesis" pattern - instead of making one-sided politics themselves (the latter is also called propaganda). So we see it in our responsibility to provide or promote a mainstream video- & chatplatform which has a decentralized backend and frontend (the latter via ens.domains) including a fully decentralized content moderation and decentralized, permissionless user authentication. 
 Spam shall be avoided by punishing spamming wallets financially. This can be done by requesting to stake CULT before someone behind a wallet can post anything --> if the decentralized content moderation comes to the conclusion that someone (behind a wallet) tried to spam the community his stakes shall be given to someone who is respectful and perhaps even helpful for the community.
-
-## Improve censorship resistance of the CULTDAO.io Frontend
-Is the [cultdao.io](https://cultdao.io) frontend also available via ipfs? If not provide it and propose to connect it with a proper [https://ens.domains](ens.domains) based ...eth.limo / ...eth.link domain. 
-
-## CULT Pot
-Inspired by [pulsepot.io](https://pulsepot.io), it might be a good idea to gamify learning and onboarding.  
-Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). We might ask Jacob if he is interested in teaming up.
-
-## Peer To Peer On- / Off Ramp
-As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
-
-## Peer To Peer Service Exchange
-It maybe a good idea to have further approaches like [gitcoin.co](https://gitcoin.co) in place and or to extend gitcoin's features in a way that it also serves as a general decentralized version of [fiverr](https://www.fiverr.com/). Gitcoin is imo great for web3 insiders. I wonder what is necessary to foster a peer 2 peer economy even further fostering "mainstream adoption"...
 
 ## Decentralized Governance For Day To Day Local Decisions
 There might be local fairness DAOs to foster real = direct democracy and with that fair systems. 
@@ -138,14 +143,6 @@ Centralized Governments might again try to create fear to separate people from e
 We want to make sure that it is as simple as never before to get together, dance, laugh in fair contexts while supporting the CULT. 
 
 People will be able to earn CULT or RVLT by dancing and laughing together. 
-
-## Frontend Improvement Proposals
-### Update Connected Account 
-Some people use several accounts / specific wallets within their one metamask. This is also true for me. When I change the active account in metamask some pages like uniswap.org already recognize this and ask to you want to update the account with which you are connected to this site. This would be amazing if you could build that in on cultdao.io as well. This is also relevant for doing a quick CULTmander check for all accounts within metamask --> background: I guess many cultmanders just do not know if one of their accounts / specific wallets was selected for the current cycle...
-
-### Introduce Routing to Link to Specific Proposal
-This would speed up the CULTmander's voting process by reducing the amount of clicks needed. With this one could just update the number in the URL's query parameter or path parameter. Also sharing links to specific proposals would be simpler.
-
 
 ## CULT.DAO Proposals
 We consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
