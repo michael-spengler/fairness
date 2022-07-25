@@ -67,6 +67,11 @@ As an alternative to the relatively difficult proof of humanity approach it migh
 Inspired by [pulsepot.io](https://pulsepot.io), it might be a good idea to gamify learning and onboarding.  
 Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). We might ask Jacob if he is interested in teaming up.
 
+## CULT Merchandise Shop
+This could serve as "single point of entry" where people can find and order CULT stickers, "physical" coins, caps, shields etc. ?   
+Background: There are so many cool products created. There shall be a transparent market connecting supply & demand.  
+
+
 ## Peer To Peer Service Exchange
 It maybe a good idea to have further approaches like [gitcoin.co](https://gitcoin.co) in place and or to extend gitcoin's features in a way that it also serves as a general decentralized version of [fiverr](https://www.fiverr.com/). Gitcoin is imo great for web3 insiders. I wonder what is necessary to foster a peer 2 peer economy even further fostering "mainstream adoption"...
 
