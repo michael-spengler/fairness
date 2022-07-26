@@ -76,6 +76,18 @@ Background: There are so many cool products created. There shall be a transparen
 It maybe a good idea to have further approaches like [gitcoin.co](https://gitcoin.co) in place and or to extend gitcoin's features in a way that it also serves as a general decentralized version of [fiverr](https://www.fiverr.com/). Gitcoin is imo great for web3 insiders. I wonder what is necessary to foster a peer 2 peer economy even further fostering "mainstream adoption"...
 
 ## Supporting the Distributedness of our Movement
+
+### Ask If You Can Pay With CULT or RVLT
+Whenever we are in a store, we consider asking if one can pay with CULT or RVLT in this store.  
+Imagine our currently 17.000 Holders doing so frequently :) 
+
+We additionally educate by recommending:  
+1. read the manifesto https://cultdao.io  
+2. install https://metamask.io  
+3. Add CULT asset --> custom token in metamask via smart contract address 0xf0f9d895aca5c8678f706fb8216fa22957685a13   
+4. buy (the dip) CULT on uniswap.org   
+
+
 ### Welcome Present CULT & RVLT
 In order to give people the chance to have a good starting position when it comes to [CULT](https://coinmarketcap.com/currencies/cult-dao) & [RVLT](https://coinmarketcap.com/currencies/revolt-2-earn) and in order to increase the distributedness of our movement, we have provided a [welcome present feature for CULT](https://cultdao-ecosystem.eth.limo/) and a [welcome present feature for RVLT](https://rvlt-ecosystem.eth.limo/).  
 Facebook seems to be the platform with the lowest fake-/real account ratio - this is why those pages leverage facebook. If someone has [cooler approaches](https://www.youtube.com/watch?v=TbyVyVNsyys) ready yet, feel free to raise a PR.  
