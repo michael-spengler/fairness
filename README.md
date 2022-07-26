@@ -11,7 +11,7 @@ This project leverages the [Distributed Ledger Technology](https://github.com/mi
 Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO family member](https://www.youtube.com/channel/UCWB7QUp9xOFEqEMQgvOn5Ww/videos) ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://twitter.com/Peer2peerE).
 
 ## Vision
-[CULT](https://coinmarketcap.com/currencies/cult-dao) is the financial hub of a new, free society. 
+[CULT](https://coinmarketcap.com/currencies/cult-dao) is the financial hub of a new, free society.   
 [RVLT](https://coinmarketcap.com/currencies/revolt-2-earn) is the council & support system. 
 
 ### CULT Tokenomics
