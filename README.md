@@ -6,7 +6,7 @@ This project supports the [cultdao.io](https://cultdao.io) and is meant to proto
 
 This project leverages the [Distributed Ledger Technology](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture) to build  incentive systems which foster fairness. 
 
-[Motivation](https://www.youtube.com/watch?v=fW8amMCVAJQ&t=2s) for this project comes from observing many ["Real Life Thrillers"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) revealing a [lack of fairness](https://www.youtube.com/watch?v=9aRTo5nflCY) in political and economic systems.
+[Motivation](https://www.youtube.com/watch?v=fW8amMCVAJQ&t=2s) for this project comes from observing many ["Real Life Thrillers"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) revealing a lack of fairness in [political](https://www.youtube.com/watch?v=9aRTo5nflCY) and economic systems.  
 
 Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO family member](https://www.youtube.com/channel/UCWB7QUp9xOFEqEMQgvOn5Ww/videos) ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://twitter.com/Peer2peerE).
 
