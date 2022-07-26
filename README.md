@@ -10,6 +10,17 @@ This project leverages the [Distributed Ledger Technology](https://github.com/mi
 
 Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO family member](https://www.youtube.com/channel/UCWB7QUp9xOFEqEMQgvOn5Ww/videos) ready for [team revolting](https://www.youtube.com/watch?v=tVclWqf0yM8), pair programming etc. feel free to get [in touch](https://twitter.com/Peer2peerE).
 
+## Vision
+[CULT](https://coinmarketcap.com/currencies/cult-dao) is the financial hub of a new, free society. 
+[RVLT](https://coinmarketcap.com/currencies/revolt-2-earn) is the council & support system. 
+
+### CULT Tokenomics
+![Screenshot 2022-07-23 at 22 36 12](https://user-images.githubusercontent.com/43786652/181126517-b80edbca-5314-4769-b673-8882d426d4a9.png)
+
+### RVLT Tokenomics
+![Screenshot 2022-07-23 at 22 32 52](https://user-images.githubusercontent.com/43786652/181126535-94613d03-6b1a-4986-8597-9edb18fba101.png)
+
+
 ## Frontend Improvement Proposals
 ### Improve Censorship Resistance
 Is the [cultdao.io](https://cultdao.io) frontend also available via ipfs.io link? If not provide it and propose to connect it with a proper https://ens.domains based ...eth.limo / ...eth.link domain - similar to [cultkamasutra.eth.limo](https://cultkamasutra.eth.limo/). 
