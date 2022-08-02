@@ -35,6 +35,9 @@ Some people use several accounts / specific wallets within their one metamask. T
 We consider facilitating CULT Hackathons as [Acts of RVLT](https://revolt.cultdao.io/pendingProposal).  
 Some of the topics below could be explored / implemented during those Hackathons.  
 
+## CULT Matches
+It might be cool to provide a CULT Dating App soon, connecting people who support the right things.
+
 ## CULT Chat
 Establish a dedicated [decentralized Chat App](https://www.youtube.com/watch?v=J5x3OMXjgMc) - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
 
