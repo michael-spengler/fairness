@@ -77,6 +77,14 @@ The time might be right to leverage potential synergies with [democracy.earth](h
 
 As an alternative to the relatively difficult proof of humanity approach it might make sense to mint a UBI coin for each wallet which has dCULT on a regular basis. This would further incentivize long term CULT staking. 
 
+## CULT Playmates
+I have received so much support for providing the [cultkamasutra.eth.limo](https://cultkamasutra.eth.limo). 
+
+This encourages me to provide another platform for [CULT Playmates](https://twitter.com/Peer2peerE/status/1554446324459872258?s=20&t=wY5qWlgaYrZL2f9dO4yr2g).
+
+Feel free to give feedback if it is getting too sexy. Then I'll encourage the playmates to cool down a bit.
+
+
 ## CULT Pot
 Inspired by [pulsepot.io](https://pulsepot.io), it might be a good idea to gamify learning and onboarding.  
 Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). We might ask Jacob if he is interested in teaming up.
