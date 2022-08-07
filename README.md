@@ -39,7 +39,7 @@ Establish a dedicated [decentralized Chat App](https://www.youtube.com/watch?v=J
 
 The CULT Chat can be regarded as Peer To Peer Messaging DAPP. Your wallet address would be the replacement of your e-mail address or phonenumber. Spam would be reduced due to the fact that each sender of a message (transaction) needs to pay some minor gas fee --> shall be fine e.g. on Polygon, Arbitrum, Pulsechain and other platforms. 
 
-I also think about perceiving chat messages as transactions on polygon --> yes it would cost something and it would be slow (compared to "real time chat apps") - at the same time I can imagine this would ensure that mostly only relevant / valuable information is shared. So it saves time for readers and might make a community even more focused / successful when the circumstances require this.
+I also think about perceiving chat messages as transactions on polygon --> yes it would cost something and it would be slow (compared to "real time chat apps") - at the same time I can imagine this would ensure that mostly only relevant / valuable information is shared. So it saves time for readers and might make a community even more focused / successful, especially when the circumstances require this.
 
 ## Rogue Ideas to Fill the Treasury & Boost the Price
 We might introduce [RVLTStreetBets](https://www.reddit.com/r/RVLTStreetBets/) to promote flows like: 
