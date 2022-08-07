@@ -21,16 +21,6 @@ Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO fami
 ![Screenshot 2022-07-23 at 22 32 52](https://user-images.githubusercontent.com/43786652/181126535-94613d03-6b1a-4986-8597-9edb18fba101.png)
 
 
-## Frontend Improvement Proposals
-### Improve Censorship Resistance
-Is the [cultdao.io](https://cultdao.io) frontend also available via ipfs.io link? If not provide it and propose to connect it with a proper https://ens.domains based ...eth.limo / ...eth.link domain - similar to [cultkamasutra.eth.limo](https://cultkamasutra.eth.limo/). 
-
-### Introduce Routing to Link to Specific Proposals
-This would speed up e.g. the CULTmander's voting process by reducing the amount of clicks needed. With this voters could just update the number in the URL's query parameter or path parameter while exploring and voting on all proposals. Also sharing links to specific proposals would be easier.
-
-### Update Connected Account 
-Some people use several accounts / specific wallets within their one metamask. This is also true for me. When I change the active account in metamask some pages like uniswap.org already recognize this and ask something like "do you want to update the account with which you are connected to this site?". This would be amazing if you could build that in on cultdao.io as well. This is also relevant for doing a quick CULTmander check for all accounts within metamask --> background: I guess many cultmanders just do not know if one of their accounts / specific wallets in metamask was selected for the current cycle...
-
 ## CULT Hackathons
 We consider facilitating CULT Hackathons as [Acts of RVLT](https://revolt.cultdao.io/pendingProposal).  
 Some of the topics below could be explored / implemented during those Hackathons.  
@@ -100,6 +90,18 @@ Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). We might ask Ja
 This could serve as "single point of entry" where people can find and order CULT stickers, "physical" coins, caps, shields etc. ?   
 Background: There are so many cool products created. There shall be a transparent market connecting supply & demand.  
 
+## Frontend Improvement Proposals
+### Open Source the Frontend
+One of the benefits would be that we could fund issues via [gitcoin.co](https://gitcoin.co). With that we would also further connect the gitcoin & cult communities.
+
+### Improve Censorship Resistance
+Is the [cultdao.io](https://cultdao.io) frontend also available via ipfs.io link? If not provide it and propose to connect it with a proper https://ens.domains based ...eth.limo / ...eth.link domain - similar to [cultkamasutra.eth.limo](https://cultkamasutra.eth.limo/). 
+
+### Introduce Routing to Link to Specific Proposals
+This would speed up e.g. the CULTmander's voting process by reducing the amount of clicks needed. With this voters could just update the number in the URL's query parameter or path parameter while exploring and voting on all proposals. Also sharing links to specific proposals would be easier.
+
+### Update Connected Account 
+Some people use several accounts / specific wallets within their one metamask. This is also true for me. When I change the active account in metamask some pages like uniswap.org already recognize this and ask something like "do you want to update the account with which you are connected to this site?". This would be amazing if you could build that in on cultdao.io as well. This is also relevant for doing a quick CULTmander check for all accounts within metamask --> background: I guess many cultmanders just do not know if one of their accounts / specific wallets in metamask was selected for the current cycle...
 
 ## Peer To Peer Service Exchange
 It maybe a good idea to have further approaches like [gitcoin.co](https://gitcoin.co) in place and or to extend gitcoin's features in a way that it also serves as a general decentralized version of [fiverr](https://www.fiverr.com/). Gitcoin is imo great for web3 insiders. I wonder what is necessary to foster a peer 2 peer economy even further fostering "mainstream adoption"...
