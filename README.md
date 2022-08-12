@@ -21,7 +21,7 @@ Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO fami
 ![Screenshot 2022-07-23 at 22 32 52](https://user-images.githubusercontent.com/43786652/181126535-94613d03-6b1a-4986-8597-9edb18fba101.png)
 
 
-## CULT Hackathons
+## CULT = Freedom Hackathons
 We consider facilitating CULT Hackathons as [Acts of RVLT](https://revolt.cultdao.io/pendingProposal).  
 Some of the topics below could be explored / implemented during those Hackathons.  
 
