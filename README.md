@@ -72,7 +72,9 @@ I have received so much support for providing the [cultkamasutra.eth.limo](https
 
 This encourages me to provide another platform for [CULT Playmates](https://twitter.com/Peer2peerE/status/1554446324459872258?s=20&t=wY5qWlgaYrZL2f9dO4yr2g).
 
-Feel free to give feedback if it is getting too sexy. Then I'll encourage the playmates to cool down a bit.
+Feel free to give feedback if it is getting too sexy. Then I'll encourage the playmates to cool down a bit.  
+
+The plan is to release one CULT Playmate dancing daily whenever we reached a new ATH during that day. I have been inspired by B-Roots' #tittytwerk :)   
 
 ## CULT Playmates StoneSoup Cooking Videos
 ... under construction :) having fun ;) 
