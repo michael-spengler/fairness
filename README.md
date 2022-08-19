@@ -96,6 +96,12 @@ It might be cool to provide a CULT Dating App soon, connecting people who suppor
 Inspired by [pulsepot.io](https://pulsepot.io), it might be a good idea to gamify learning and onboarding.  
 Check this [intro](https://www.youtube.com/watch?v=8OIF7jERK4c). We might ask Jacob if he is interested in teaming up.
 
+## CULT Memes
+Support more of [that](https://twitter.com/MrOmodulus/status/1557855262630768642?s=20&t=6XoCGF1-IpFLQM_XaOeCaw).
+
+## Protect Code Under The First Amendment 
+"This Repository / Code is speech. It is protected under the [first amendment](https://constitution.congress.gov/constitution/amendment-1/). Privacy is not a crime".
+
 ## CULT Merchandise Shop
 This could serve as "single point of entry" where people can find and order CULT stickers, "physical" coins, caps, shields etc. ?   
 Background: There are so many cool products created. There shall be a transparent market connecting supply & demand.  
