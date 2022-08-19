@@ -73,8 +73,14 @@ Feel free to give feedback if it is getting too sexy. Then I'll encourage the pl
 
 The plan is to release one CULT Playmate dancing daily whenever we reached a new ATH during that day. I have been inspired by B-Roots' #tittytwerk :)   
 
+## CULT Playmates Crypto Support Via Webcam 24 / 7
+Providing Decentralization Consulting 24 / 7 [metamask.io](https://metamask.io) handling etc. 
+
 ## CULT Playmates StoneSoup Cooking Videos
 ... under construction :) having fun ;) 
+
+## Team Up With Andrew Tate 
+see [tweet](https://twitter.com/Peer2peerE/status/1560620941675073537?s=20&t=0ZzzetBlEJEVxE9ugR19vQ)
 
 ## CULT Movement Tutorial Video
 We'd like to "re-create" [this](https://youtube.com/watch?v=fW8amMCVAJQ&t=2s) video with half naked, bodypainted CULTDancers.
