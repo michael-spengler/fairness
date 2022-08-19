@@ -25,9 +25,6 @@ Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO fami
 We consider facilitating CULT Hackathons as [Acts of RVLT](https://revolt.cultdao.io/pendingProposal).  
 Some of the topics below could be explored / implemented during those Hackathons.  
 
-## CULT Matches
-It might be cool to provide a CULT Dating App soon, connecting people who support the right things.
-
 ## CULT Chat
 Establish a dedicated [decentralized Chat App](https://www.youtube.com/watch?v=J5x3OMXjgMc) - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
 
@@ -83,6 +80,9 @@ The plan is to release one CULT Playmate dancing daily whenever we reached a new
 We'd like to "re-create" [this](https://youtube.com/watch?v=fW8amMCVAJQ&t=2s) video with half naked, bodypainted CULTDancers.
 
 The first fellow in the video might be @MrOmodulus
+
+## CULT Matches
+It might be cool to provide a CULT Dating App soon, connecting people who support the right things. Details could be specified by Mimi in the context of her master thesis.  
 
 ## CULT Pot
 Inspired by [pulsepot.io](https://pulsepot.io), it might be a good idea to gamify learning and onboarding.  
