@@ -20,6 +20,12 @@ Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO fami
 ### RVLT Tokenomics
 ![Screenshot 2022-07-23 at 22 32 52](https://user-images.githubusercontent.com/43786652/181126535-94613d03-6b1a-4986-8597-9edb18fba101.png)
 
+## CULT Staking Pool
+In order to ensure that Ethereum stays decentralized, we might offer a CULT ETH2.0 Staking Pool in which also "small" stakers can co-decide / vote on node client implementations. This is also inspired / catalyzed by the tornado cash thriller which potentially leads to the ofac fork [See also](https://twitter.com/Peer2peerE/status/1561336513824276480?s=20&t=-i07Kly39BDLSFysec73BA).
+
+## Peer To Peer On- / Off Ramp
+As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
+
 
 ## CULT = Freedom Hackathons
 We consider facilitating CULT Hackathons as [Acts of RVLT](https://revolt.cultdao.io/pendingProposal).  
@@ -57,9 +63,6 @@ Introduce and incentivize Distributed Ledger Education (real democracy education
 Check with Patrick & Sebastian to which extend [HWZ](https://fh-hwz.ch/person/comboeuf-patrick-studiengangsleitung/) and [DHBW Mannheim](https://www.mannheim.dhbw.de) would be interested.   
 
 Prepare youtube videos in many languages as a basis for teachers who are new to the CULT. 
-
-## Peer To Peer On- / Off Ramp
-As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
 
 ## Universal Basic Income
 The time might be right to leverage potential synergies with [democracy.earth](https://democracy.earth/), [Proof of Humanity](https://www.proofofhumanity.id/), etc. 
