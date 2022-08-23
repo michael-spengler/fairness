@@ -21,7 +21,7 @@ Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO fami
 ![Screenshot 2022-07-23 at 22 32 52](https://user-images.githubusercontent.com/43786652/181126535-94613d03-6b1a-4986-8597-9edb18fba101.png)
 
 ## CULT Staking Pool
-In order to ensure that Ethereum stays decentralized, we might offer a CULT ETH2.0 Staking Pool in which also "small" stakers can co-decide / vote on node client implementations. This is also inspired / catalyzed by the tornado cash thriller which potentially leads to the ofac fork [see also](https://twitter.com/Peer2peerE/status/1561336513824276480?s=20&t=-i07Kly39BDLSFysec73BA).
+In order to ensure that Ethereum stays decentralized, we might offer a CULT ETH2.0 Staking Pool in which also "small" stakers can co-decide / vote on node client implementations. This is also inspired / catalyzed by the tornado cash thriller which potentially leads to the ofac- vs. the freedom fork [see also](https://twitter.com/Peer2peerE/status/1561336513824276480?s=20&t=-i07Kly39BDLSFysec73BA).
 
 ## Peer To Peer On- / Off Ramp
 As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
