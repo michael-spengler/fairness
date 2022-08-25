@@ -69,6 +69,8 @@ It is key that the universal basic income (if there ever is one) comes from a de
 
 CULT has the potential to be a sufficiently decentralized source of a universal basic income imo.
 
+The tokenomics shall be related to CULT + RVLT in order to incentivize value adding behaviour. This can be done in a way that the basic income is minted for those who staked CULT + RVLT and that this basic income is higher for those CULT Manders who vote (within the first 10 % of given votes) in favour of the majority decision which is determined at the end of each cycle. 
+
 
 ## CULT = Freedom Hackathons
 We consider facilitating CULT Hackathons as [Acts of RVLT](https://revolt.cultdao.io/pendingProposal).  
