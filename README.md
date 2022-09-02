@@ -42,6 +42,8 @@ I also think about perceiving chat messages as transactions on polygon --> yes i
 
 Before actually program this we shall check existing solutions like [iris.to](https://iris.to/) in detail.  
 
+Consider introducing decentralized content moderation. 
+
 ## Rogue Ideas to Fill the Treasury & Boost the Price
 We might introduce [RVLTStreetBets](https://www.reddit.com/r/RVLTStreetBets/) to promote flows like: 
 
