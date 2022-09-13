@@ -26,6 +26,11 @@ In order to ensure that Ethereum stays decentralized, we might offer a CULT ETH2
 ## Peer To Peer On- / Off Ramp
 As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
 
+## CULT Events
+Establish a platform where people can offer CULT events - e.g. dance events. Every CULT holder shall get free entrance or a CULT drink for free. 
+
+## CULT Magazine
+Provide a magazine (online first) which also serves as a info material treasury. 
 
 ## CULT Chat
 Establish a dedicated [decentralized Chat App](https://www.youtube.com/watch?v=J5x3OMXjgMc) - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
