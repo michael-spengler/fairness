@@ -30,7 +30,7 @@ As long as fiat money (= political manipulation money) plays a role, it seems to
 Establish a platform where people can offer CULT events - e.g. dance events. Every CULT holder shall get free entrance or a CULT drink for free. 
 
 ## CULT Magazine
-Provide a magazine (online first) which also serves as a info material treasury. 
+Provide a magazine ([online first](https://github.com/michael-spengler/cultmagazine)) which also serves as a info material treasury. 
 
 ## CULT Chat
 Establish a dedicated [decentralized Chat App](https://www.youtube.com/watch?v=J5x3OMXjgMc) - named **CULT Chat**. Assumption: There is no fully decentralized chat app ready to go imo yet. We saw how quickly e.g. discord, reddit got censored in the context of the wallstreetbets experience...  
