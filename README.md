@@ -24,7 +24,7 @@ Contributions (Issues, Pull Requests...) are welcome. If you are a [CultDAO fami
 In order to ensure that Ethereum stays decentralized, we might offer a CULT ETH2.0 Staking Pool in which also "small" stakers can co-decide / vote on node client implementations. This is also inspired / catalyzed by the tornado cash thriller which potentially leads to the ofac- vs. the freedom fork [see also](https://twitter.com/Peer2peerE/status/1561336513824276480?s=20&t=-i07Kly39BDLSFysec73BA).
 
 ## Peer To Peer On- / Off Ramp
-As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) serves as candidate and or inspiration. 
+As long as fiat money (= political manipulation money) plays a role, it seems to be a good idea to have several peer to peer on-/off ramps in place. Maybe [cryptolocally](https://www.youtube.com/watch?v=VE52OpawDTk) and [this video](https://www.youtube.com/watch?v=nVhJdjkGhqg) serve as candidate and or inspiration. 
 
 ## CULT Events
 Establish a platform where people can offer CULT events - e.g. dance events. Every CULT holder shall get free entrance or a CULT drink for free. 
